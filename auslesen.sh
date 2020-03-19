@@ -4,7 +4,7 @@ do
 done
 echo
 
-for i in {4..17}
+for i in {4..18}
 #for land in "Baden-Württemberg" 
 do
 	echo -n "$i "
