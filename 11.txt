@@ -1,0 +1,307 @@
+                                      Täglicher Lagebericht des RKI
+                                     zur Coronavirus-Krankheit-2019
+                                               (COVID-19)
+                              11.03.2020 –AKTUALISIERTER STAND FÜR DEUTSCHLAND
+
+
+
+
+                                                                                                                                  1
+                                                                               Bestätigte Fälle   Verstorbene   Verstorbene (%)
+
+                                            Deutschland                           1.567               3              0,2%
+
+                                            Europa (einschl. D)                   19.540             732             3,7%
+                                                              China               80.909            3.160            3,9%
+                                                        Weltweit                 121.672            4.373            3,6%
+                                                                                 (+7.486)           (+887)
+  – Änderungen seit dem letzten Bericht werden im Text in Blau dargestellt –
+
+
+
+
+Zusammenfassung der aktuellen Lage
+  National (Datenstand 11.03.2020, 15:00 Uhr)
+        Insgesamt wurden in Deutschland 1.567 laborbestätigte SARS-CoV-2-Infektionen aus 16
+         Bundesländern berichtet.
+        Seit dem 09.03.2020 wurden in Deutschland 3 Todesfälle aus Nordrhein-Westfalen in
+         Zusammenhang mit COVID-19-Erkrankungen berichtet. Es handelt sich um 2 Personen aus
+         Heinsberg und eine Person aus Essen.
+        In Kairo ist ein weiterer deutscher Tourist an einer respiratorischen Erkrankung verstorben. Seine
+         mitreisende Ehefrau wurde positiv auf SARS-CoV-2 getestet.
+
+  International (Datenstand 11.03.2020, 15:00 Uhr)
+   WHO erklärt COVID-19 zur Pandemie.
+   Es wurden 80.909 (+29) Fälle in China (inklusive Hongkong und Macau) gemeldet.
+   Außerhalb Chinas wurden 40.763 (+7.457) Fälle in 103 Ländern berichtet. Die Länder Italien
+      (10.149 Fälle), Iran (9.000 Fälle) und Südkorea (7.755 Fälle) vermelden die höchsten Fallzahlen und
+      umfassen zusammen 66% der außerhalb von China gemeldeten Fälle.
+
+
+
+
+  1
+      Siehe Anmerkung zu den berichteten % Verstorbene im Abschnitt „Epidemiologische Lage global“.
+
+Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
+2     COVID-19-Lagebericht vom 11.03.2020
+
+
+
+
+    Epidemiologische Lage in Deutschland                                     (Datenstand 11.03.2020, 15:00 Uhr)
+
+
+
+
+      Fallzahlen
+        Mit über 1.000 Fällen in Deutschland können die Fallzahlen zu COVID-19 nicht mehr manuell aktualisiert und
+        qualitätsgesichert berichtet werden. Daher wird die Berichterstattung umgestellt. So werden sich die
+        epidemiologischen Auswertungen im COVID-19-Lagebericht nur noch auf die elektronisch übermittelten Daten
+        beziehen, die dem Robert Koch-Institut (RKI) zum Datenschluss vorliegen. Bis Ende dieser Woche werden im
+        Lagebericht die Zahl der vorab übermittelten Fälle und die elektronisch übermittelten Fälle nach Bundesland
+        tabellarisch aufgeführt (s. Tabelle 1). Danach werden nur noch die elektronisch übermittelten Fälle dargestellt.
+
+        Insgesamt sind in Deutschland 1.567 (+271) laborbestätigte Fälle von Coronavirus-Krankheit-2019 (COVID-19)
+        seit dem 27.01.2020 bekannt geworden, davon wurden bisher 1.089 elektronisch an das RKI übermittelt und hier
+        validiert. In Deutschland wurden seit dem 09.03.2020 erstmals insgesamt 3 Todesfälle in Zusammenhang mit
+        COVID-19-Erkrankungen berichtet.
+
+        Informationen zu den laborbestätigten Fällen (1.567 Fälle)
+
+        Es wurden bisher 1.567 Fälle in 16 Bundesländern berichtet (Tabelle 1). In Nordrhein-Westfalen verstarben 2
+        Personen in Heinsberg und eine in Essen an einer nachgewiesenen COVID-19-Erkrankung.
+
+        Tabelle 1: Verteilung der laborbestätigten COVID-19-Fälle pro Bundesland in Deutschland (11.03.2020)
+                                                                                      Davon
+                                                    Vorabmeldung
+               Bundesland                                                      elektronisch
+                                                   bestätigter Fälle
+                                                                           übermittelte Fälle
+               Baden-Württemberg                                 277                     190
+               Bayern                                            366                           207
+               Berlin                                             90                             90
+               Brandenburg                                        24                             11
+               Bremen                                             21                             21
+               Hamburg                                            48                             17
+               Hessen                                             48                             28
+               Mecklenburg-Vorpommern                             17                             11
+               Niedersachsen                                      75                             52
+               Nordrhein-Westfalen                               484                           384
+               Rheinland-Pfalz                                    25                             25
+               Saarland                                           14                               6
+               Sachsen                                            26                             17
+               Sachsen-Anhalt                                     15                               6
+               Schleswig-Holstein                                 27                             14
+               Thüringen                                          10                             10
+
+
+        Im Rahmen der Arbeitsgemeinschaft Influenza gibt es rund 700 Sentinelpraxen, die dem RKI wöchentlich die Zahl
+        der akuten Atemwegserkrankungen in ihrer Praxis mitteilen. Ca. 100 Praxen schicken zusätzlich Proben von
+        Patienten mit akuten Atemwegsinfektionen an das Nationale Referenzzentrum für Influenzaviren am RKI. Seit
+        Ende Februar 2020 werden die Proben auch auf SARS-CoV-2 getestet. In einer der 446 Patientenproben wurde
+        nun SARS-CoV-2 detektiert. Das NRZ hat den Nachweis dem zuständigen Gesundheitsamt gemeldet. Der Fall
+        steht im Zusammenhang mit einem Cluster von Reiserückkehrern aus Italien.
+
+
+
+
+        Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+3                                                                                        COVID-19-Lagebericht vom 11.03.2020   3
+
+
+                                                                            2
+      Informationen zu den elektronisch übermittelten Fällen (1.089 Fälle, Datenstand 11.03.2020, 11:00 Uhr)
+
+      Bisher wurden 1.089 Fälle aus 16 Bundesländern an das Robert Koch-Institut übermittelt.
+
+
+
+
+      Abbildung 1: Darstellung der 1.089 übermittelten COVID-19-Fälle in Deutschland nach Landkreis und Bundesland
+      (11.03.2020). Die Fälle werden nach dem Landkreis ausgewiesen, aus dem sie übermittelt wurden. Dies entspricht in der
+      Regel dem Wohnort, der nicht mit dem wahrscheinlichen Infektionsort übereinstimmen muss.
+
+      Unter diesen Fällen sind 595 männlich (55%) und 494 weiblich (45%). Die Altersspanne reicht von 0 bis 89 Jahren,
+      darunter 15 Kinder unter 5 Jahren, 28 Kinder im Alter 5-14 Jahren, 891 Personen im Alter von 15 bis 59 Jahren
+      und 142 Personen in der Altersgruppe ab 60 Jahre (s. Abb. 2). Bei 2 Personen ist das Alter unbekannt. Der
+      Altersmedian liegt bei 43 Jahren.
+
+      Für 737 übermittelte Fälle liegen klinische Informationen vor; davon wurde für 49 Fälle angegeben, dass keine
+      für COVID-19 bedeutsamen Symptome bestanden. Die häufigsten genannten Symptome waren Husten (411 von
+      737, 56%), Fieber (290 von 737, 39%), und Schnupfen (239 von 737, 32%). Bei 12 Fällen wurde eine Pneumonie
+      berichtet (1,6%). Darüber hinaus wurden allgemeine Symptome wie Kopf-, Rücken-, Muskelschmerzen,
+      Gelenkschmerzen, Appetit- und Gewichtsverlust, Übelkeit, Erbrechen, Durchfall, Konjunktivitis, Hautausschlag,
+      Lymphknotenschwellung und Apathie genannt.
+
+
+
+
+      2
+       Als übermittelte Fälle gelten Fälle, die gemäß §11 IfSG von den Gesundheitsämtern an die zuständige Landesbehörde und
+      durch diese an das Robert Koch-Institut übermittelt wurden.
+
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+4     COVID-19-Lagebericht vom 11.03.2020
+
+
+
+
+        Abbildung 2: Darstellung der 1.089 übermittelten COVID-19-Fälle in Deutschland nach Altersgruppe und Geschlecht
+        (11.03.2020)
+
+        Der Erkrankungsbeginn der COVID-19-Fälle liegt zwischen dem 23.01.2020 und dem 10.03.2020. Bei 517 Fällen
+        ist der Erkrankungsbeginn nicht bekannt bzw. diese Fälle sind nicht symptomatisch erkrankt und es wird daher
+        das Meldedatum angezeigt (s. Abb. 3).
+
+
+
+
+        Abbildung 3: Epidemiologische Kurve der 1.089 übermittelten COVID-19-Fälle in Deutschland nach Erkrankungsdatum- bzw.
+        nach Meldedatum (11.03.2020). Die abnehmende Fallzahl über die letzten Tage ist durch den Meldeverzug bedingt.
+
+        Weitere Informationen
+
+        Seit dem 09.03.2020 sind 3 Personen in Deutschland an einer COVID-19-Erkrankung verstorben. Es handelt sich
+        um eine 89-jährige Frau aus Essen sowie einen 78-jährigen Mann aus dem LK Heinsberg. Darüber hinaus
+        meldeten die Behörden heute einen zweiten Todesfall im Kreis Heinsberg. Ein mit SARS-CoV-2 infizierter
+        männlicher Patient (73 Jahre) ist in einem Heinsberger Krankenhaus gestorben. Weitere Details sind noch nicht
+        bekannt.
+
+        In Kairo ist ein weiterer deutscher Tourist an einer respiratorischen Erkrankung verstorben. Es erfolgte bei ihm
+        keine Testung auf SARS-CoV-2, jedoch wurde die mitreisende Ehefrau positiv getestet. Am 08.03.2020 ist
+        erstmals ein deutscher Tourist an COVID-19 in Ägypten verstorben.
+
+
+    Bewertung durch das RKI
+
+        Es handelt sich weltweit und in Deutschland um eine sehr dynamische und ernst zu nehmende Situation. Bei
+        einem Teil der Fälle sind die Krankheitsverläufe schwer, auch tödliche Krankheitsverläufe kommen vor. Das RKI
+        schätzt die Gefährdung für die Gesundheit der Bevölkerung in Deutschland derzeit insgesamt als mäßig ein. Diese
+        Gefährdung variiert aber von Region zu Region und ist in „besonders betroffenen Gebieten“ höher. Die
+        Wahrscheinlichkeit für schwere Krankheitsverläufe nimmt mit zunehmendem Alter und bestehenden
+        Vorerkrankungen zu. Die Belastung des Gesundheitswesens hängt maßgeblich von der regionalen Verbreitung
+
+        Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+5                                                                                    COVID-19-Lagebericht vom 11.03.2020   5
+
+
+        der Infektion, den vorhandenen Kapazitäten und den eingeleiteten Gegenmaßnahmen (Isolierung, Quarantäne,
+        soziale Distanzierung) ab und kann örtlich sehr hoch sein. Diese Einschätzung kann sich kurzfristig durch neue
+        Erkenntnisse ändern.
+
+
+
+    Maßnahmen in Deutschland
+
+      Maßnahmen
+        o     Wegen der zunehmenden Ausbreitung von SARS-CoV-2 untersagen die Gesundheitsverwaltungen in Berlin
+              und Sachsen ab dem 11.03.2020 alle Großveranstaltungen von über 1.000 Personen. Zuvor hatten bereits
+              mehrere andere Bundesländer und Kommunen aufgrund des Ausbruchs Veranstaltungen mit mehr als 1.000
+              Teilnehmenden untersagt - unter anderem Hamburg, Berlin, Bremen, Baden-Württemberg, Thüringen und
+              Bayern.
+
+        o     Die Berliner Feuerwehr und die Kassenärztliche Vereinigung haben einen Fahrdienst für mögliche COVID-19-
+              Verdachtsfälle gestartet. Betroffene können den Dienst über die Telefonnummer 116 117 anfordern.
+
+        o     Das Auswärtige Amt warnt vor Reisen in die Provinz Hubei und rät von nicht erforderlichen Reisen nach
+              Italien, Iran und der Volksrepublik China sowie in einige Provinzen in Südkorea ab:
+              https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/10.2.8Reisewarnungen
+
+      Besonders betroffene Gebiete in Deutschland und internationale Risikogebiete
+        o     Mit Stand vom 11.03.2020 gelten folgende Regionen als besonders betroffenes Gebiet in Deutschland:
+                  o Landkreis Heinsberg (NRW)
+
+        o     Mit Stand vom 11.03.2020 gelten folgende Regionen als internationale Risikogebiete
+              (https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete.html):
+                   o Italien
+                   o Iran
+                   o In China: Provinz Hubei (inkl. der Stadt Wuhan)
+                   o In Frankreich: Region Grand Est (diese Region enthält Elsass, Lothringen und Champagne-Ardenne)
+                   o In Südkorea: Provinz Gyeongsangbuk-do (Nord-Gyeongsang)
+
+      Aktualisierte Dokumente
+        o     Allgemeine Prinzipien der Risikoeinschätzung und Handlungsempfehlung für Großveranstaltungen sind
+              verfügbar unter:
+              https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risiko_Grossveranstaltungen.pdf?__blob
+              =publicationFile
+
+        o     Hinweise zur Prävention und zum Management von COVID-Erkrankungen in Alten- und Altenpflegeheimen
+              sind auf den RKI-Internetseiten abrufbar unter
+              https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Altenpflegeheime.html.
+
+        o     Informationen zu COVID-19 sind auf den RKI-Internetseiten abrufbar unter https://www.rki.de/ncov (u. a.
+              Epidemiologie, Prävention und Bekämpfungsmaßnahmen).
+
+
+
+
+      Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+6     COVID-19-Lagebericht vom 11.03.2020
+
+
+
+
+    Epidemiologische Lage global                                    (Datenstand 11.03.2020, 15:00 Uhr)
+
+
+
+
+      Global
+        Die Weltgesundheitsorganisation (WHO) erklärte heute (11.03.2020) COVID-19 zur Pandemie. Als Pandemie wird
+        ein Krankheitsausbruch bezeichnet, der nicht mehr örtlich beschränkt ist.
+                                                                                                                                                3
+        Bis zum 11.03.2020 wurden weltweit 121.672 (+7.486) bestätigte COVID-19-Fälle und darunter 4.373 (3,6%)
+        Todesfälle berichtet. 67% der Fälle sind in China aufgetreten, wobei die Fallzahlen in China deutlich rückläufig
+        sind.
+
+        Außerhalb Chinas wurden 40.763 (+7.457) Fälle in 103 Ländern berichtet. Der Anteil verstorbener Fälle lag bei
+                      3
+        insgesamt 3,0% (1.213 Fälle).
+
+        Aktuelle Informationen zur Verteilung der COVID-19-Fälle nach Kontinenten sind unter
+        https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases und
+        https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/ und
+        https://who.maps.arcgis.com/apps/opsdashboard/index.html#/ead3c6475654481ca51c248d52ab9c61 zu
+        finden.
+
+
+    Empfehlungen und Maßnahmen global
+
+      WHO
+            45 Vertragsstaaten der WHO haben zusätzliche Gesundheitsmaßnahmen ergriffen, die im Zusammenhang
+             mit COVID-19 eingeführt wurden: https://www.who.int/docs/default-source/coronaviruse/situation-
+             reports/20200310-sitrep-50-covid-19.pdf?sfvrsn=55e904fb_2
+
+            Die WHO stellt kostenlose Online-Kursmodule zum Thema COVID-19 zur Verfügung:
+             https://openwho.org/courses/UNCT-COVID19-preparedness-and-response-EN
+
+            Die WHO stellt umfangreiche Informationen und Dokumente zur Verfügung unter:
+             https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+
+      ECDC
+            Das ECDC stellt ebenfalls zahlreiche Dokumente und Informationen zur Verfügung unter:
+             https://www.ecdc.europa.eu/en/novel-coronavirus-china
+
+      Europa
+            Die Region Grand Est (ehemals Elsass, Lothringen und Champagne-Ardenne) in Frankreich vermeldet, dass
+             eine Quarantäne von engen Kontaktpersonen und Testung aller Verdachtsfälle aus Kapazitätsgründen nicht
+             mehr erfolgen kann. 5 Gemeinden in Oise und eine in Haute-Savoie sind unter „Quarantäne“. Dies geht mit
+             Schulschließungen und eingeschränkten Bewegungsmöglichkeiten für Bürgerinnen und Bürger einher.
+
+      Weltweit
+            Viele Länder der Welt haben Reiseeinschränkungen und weitere Maßnahmen zur Eindämmung des COVID-
+             19-Ausbruchs eingeführt. Nähere Informationen findet man unter folgendem Link:
+             https://pandemic.internationalsos.com/2019-ncov/ncov-travel-restrictions-flight-operations-and-screening
+
+
+
+
+        3
+         Alle Angaben zum Anteil Verstorbener sind nur unter Vorbehalt interpretierbar. Es handelt sich um eine Momentaufnahme des Anteils
+        Verstorbener unter den berichteten Fällen. Da der Großteil der Krankheitsverläufe noch nicht abgeschlossen ist, kann dieser Anteil sich unter
+        den bereits berichteten Fällen noch erhöhen. Zugleich ist davon auszugehen, dass asymptomatische und leichte Verläufe seltener
+        diagnostiziert werden, so dass der Anteil Verstorbener sich eher auf schwerere Verläufe bezieht.
+
+        Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
