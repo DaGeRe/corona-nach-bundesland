@@ -1,0 +1,307 @@
+                                     Täglicher Lagebericht des RKI
+                                    zur Coronavirus-Krankheit-2019
+                                              (COVID-19)
+                             19.03.2020 – AKTUALISIERTER STAND FÜR DEUTSCHLAND
+
+
+
+
+                                                                                                                 1                     2
+                                                                               Bestätigte Fälle    Verstorbene       Verstorbene (%)
+
+                                            Deutschland                          10.999              20 (+8*)             0,2%
+                                                                                 (+2.801*)
+                                                                                *Änderung gegenüber Vortag
+
+  – Änderungen seit dem letzten Bericht werden im Text in Blau dargestellt –
+
+
+Zusammenfassung der aktuellen Lage
+  National (Datenstand 19.03.2020, 00:00 Uhr)
+
+        Seit dem 17.03.2020 werden im Lagebericht nur noch laborbestätigte COVID-19-Fälle berichtet,
+         die elektronisch an das RKI übermittelt wurden.
+        Die COVID-Risikoeinschätzung des RKI wurde am 17.03.2020 auf hoch eingestuft.
+        Insgesamt wurden in Deutschland 10.999 laborbestätigte COVID-19-Fälle berichtet.
+        Seit dem 09.03.2020 wurden in Deutschland 20 Todesfälle in Zusammenhang mit COVID-19-
+         Erkrankungen elektronisch an das RKI übermittelt.
+        Seit dem 16.03.2020 schränkt die Bundesregierung vorübergehend den grenzüberschreitenden
+         Verkehr aus Frankreich, Österreich, Luxemburg, der Schweiz und Dänemark ein.
+        Die Bundesregierung und die Regierungschefinnen und -chefs der Bundesländer haben Leitlinien
+         zum einheitlichen Vorgehen zur weiteren Beschränkung von sozialen Kontakten im öffentlichen
+         Bereich beschlossen.
+        Alle Bundesländer haben ab Beginn dieser Woche Schul- und Kitaschließungen bzw. die Aufhebung
+         der Unterrichtsverpflichtung beschlossen.
+
+
+
+
+  1
+      Berücksichtigt sind nur die elektronisch (gemäß §11 IfSG) an das RKI übermittelten Todesfälle
+  2
+      Siehe Anmerkung zu den berichteten % Verstorbene im Abschnitt „Epidemiologische Lage global“.
+
+Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
+2     COVID-19-Lagebericht vom 19.03.2020
+
+
+
+
+    Epidemiologische Lage in Deutschland                                         (Datenstand 19.03.2020, 00:00 Uhr)
+
+
+
+
+      Fallzahlen
+        Mit über 10.000 Fällen in Deutschland können die Fallzahlen zu COVID-19 nicht mehr manuell aktualisiert und
+        qualitätsgesichert berichtet werden. Daher wurde die Berichterstattung umgestellt. So beziehen sich die
+        epidemiologischen Auswertungen im COVID-19-Lagebericht seit dem 17.03.2020 nur noch auf die validierten
+        elektronisch übermittelten Daten, die dem Robert Koch-Institut (RKI) zum Datenschluss vorliegen.
+
+                                                                     3
+        Informationen zu den elektronisch übermittelten Fällen (10.999 Fälle, Datenstand 19.03.2020, 00:00 Uhr)
+
+        Es wurden 10.999 labordiagnostisch bestätiget COVID-19- Fälle aus 16 Bundesländern und aus 393 Kreisen an das
+        Robert Koch-Institut übermittelt (Tabelle 1 und Abbildung 1).
+
+        Tabelle 1: Verteilung der elektronisch übermittelten COVID-19-Fälle pro Bundesland in Deutschland (19.03.2020)
+
+                     Bundesland                  Anzahl         Differenz Vortag             Fälle/100.000 Einw.      Todesfälle
+
+            Baden-Württemberg                    2.155                   + 546                          19,47             6
+            Bayern                               1.692                   + 449                          12,94             8
+            Berlin                                573                    + 182                          15,29             0
+            Brandenburg                           134                    + 42                            5,33             0
+            Bremen                                 80                    + 11                           11,71             0
+            Hamburg                               432                    + 74                           23,46             0
+            Hessen                                682                    + 250                          10,88             0
+            Mecklenburg-Vorpommern                 98                    + 42                            6,09             0
+            Niedersachsen                         669                    + 191                           8,38             0
+            Nordrhein-Westfalen                  3.033                   + 661                          16,91             6
+            Rheinland-Pfalz                       637                    + 163                          15,59             0
+            Saarland                               99                    + 11                            9,99             0
+            Sachsen                               275                    + 77                            6,74             0
+            Sachsen-Anhalt                        140                    + 35                            6,34             0
+            Schleswig-Holstein                    202                    + 43                            6,97             0
+            Thüringen                              98                    + 24                            4,57             0
+            Gesamt                               10.999              + 2.801                            13,23            20
+
+
+
+
+        3
+         Als übermittelte Fälle gelten Fälle, die gemäß § 11 IfSG von den Gesundheitsämtern an die zuständige Landesbehörde und
+        durch diese an das Robert Koch-Institut übermittelt wurden.
+
+        Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+3                                                                                        COVID-19-Lagebericht vom 19.03.2020      3
+
+
+
+
+      Abbildung 1: Darstellung der 10.999 übermittelten COVID-19-Fälle in Deutschland nach Landkreis und Bundesland
+      (19.03.2020). Die Fälle werden nach dem Landkreis ausgewiesen, aus dem sie übermittelt wurden. Dies entspricht in der
+      Regel dem Wohnort, der nicht mit dem wahrscheinlichen Infektionsort übereinstimmen muss.
+
+      Von den Fällen mit Angabe zum Geschlecht sind 6.183 männlich (56%) und 4.782 weiblich (44%). Die
+      Altersspanne reicht von 0 bis 98 Jahren, darunter 87 Kinder unter 5 Jahren, 266 Kinder im Alter von 5 bis 14
+      Jahren, 8.790 Personen im Alter von 15 bis 59 Jahren und 1.800 Personen in der Altersgruppe ab 60 Jahre
+      (s. Abb. 2). Bei 56 Personen ist das Alter unbekannt. Der Altersmedian liegt bei 47 Jahren.
+
+
+
+
+      Abbildung 2: Darstellung der übermittelten COVID-19-Fälle in Deutschland nach Altersgruppe und Geschlecht (n=10.925 Fälle
+      mit Angaben, 19.03.2020)
+
+      Für 7.719 übermittelte Fälle liegen klinische Informationen vor; davon wurde für 372 Fälle angegeben, dass keine
+      für COVID-19 bedeutsamen Symptome bestanden. Die häufigsten genannten Symptome waren Husten (4.247
+      von 7.719, 55%), Fieber (3.004 von 7.719, 39%), und Schnupfen (2.027 von 7.719, 26%). Darüber hinaus wurden
+      allgemeine Symptome wie Kopf-, Rücken-, Muskelschmerzen, Gelenkschmerzen, Appetit- und Gewichtsverlust,
+      Übelkeit, Bauchschmerzen, Erbrechen, Durchfall, Konjunktivitis, Hautausschlag, Lymphknotenschwellung,
+      Apathie und Somnolenz genannt.
+
+
+
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+4     COVID-19-Lagebericht vom 19.03.2020
+
+
+        Der Erkrankungsbeginn der COVID-19-Fälle liegt zwischen dem 23.01.2020 und dem 18.03.2020. Bei 4.806 Fällen
+        ist der Erkrankungsbeginn nicht bekannt bzw. diese Fälle sind nicht symptomatisch erkrankt und es wird daher
+        das Meldedatum angezeigt (s. Abb. 3).
+
+
+
+
+        Abbildung 3: Epidemiologische Kurve der 10.991 übermittelten COVID-19-Fälle in Deutschland nach Erkrankungsdatum- bzw.
+        nach Meldedatum; bei 8 Fällen fehlen diese Datumsangaben (19.03.2020). Die abnehmende Fallzahl über die letzten Tage ist
+        durch den Meldeverzug bedingt.
+
+        Weitere Informationen
+
+        Seit dem 09.03.2020 sind 20 Personen in Deutschland an einer COVID-19-Erkrankung verstorben. Die Todesfälle
+        kamen aus den Bundesländern Nordrhein-Westfalen (6), Bayern (8) und Baden-Württemberg (6). Es handelt sich
+        um 12 Männer und 8 Frauen. Alle Fälle sind älter als 65 Jahre. Das mittlere Alter der Todesfälle liegt bei 81
+        Jahren; der Altersmedian liegt ebenfalls bei 81 Jahren). Zwei weitere Todesfälle in Zusammenhang mit COVID-19
+        wurden bei 2 deutschen Touristen einer Nilkreuzfahrt in Ägypten berichtet. (Hinweis: berichtete Todesfälle
+        umfassen nur die bislang elektronisch (gemäß §11 IfSG) an das RKI übermittelten Fälle mit Datenstand
+        19.03.2020, 00:00 Uhr. Dies führt zu Abweichungen zu anderen Quellen, in denen die Daten noch nicht geprüft
+        worden sind.)
+
+
+    Bewertung durch das RKI
+
+        Es handelt sich weltweit und in Deutschland um eine sehr dynamische und ernst zu nehmende Situation. Bei
+        einem Teil der Fälle sind die Krankheitsverläufe schwer, auch tödliche Krankheitsverläufe kommen vor. Das RKI
+        schätzt die Gefährdung für die Gesundheit der Bevölkerung in Deutschland derzeit insgesamt als hoch ein. Diese
+        Gefährdung variiert aber von Region zu Region. Die Wahrscheinlichkeit für schwere Krankheitsverläufe nimmt
+        mit zunehmendem Alter und bestehenden Vorerkrankungen zu. Die Belastung des Gesundheitswesens hängt
+        maßgeblich von der regionalen Verbreitung der Infektion, den vorhandenen Kapazitäten und den eingeleiteten
+        Gegenmaßnahmen (Isolierung, Quarantäne, soziale Distanzierung) ab und kann örtlich sehr hoch sein. Diese
+        Einschätzung kann sich kurzfristig durch neue Erkenntnisse ändern.
+
+
+
+    Maßnahmen in Deutschland
+
+      Maßnahmen
+        o    Seit dem 16.03.2020 schränkt die Bundesregierung vorübergehend den grenzüberschreitenden Verkehr aus
+             Frankreich, Österreich, Luxemburg, der Schweiz und Dänemark ein. Der Warenverkehr bleibt darüber hinaus
+             möglich, auch Berufspendler sollen weiter einreisen können. Die Kontrollen an den Binnengrenzen werden
+             durch die Bundespolizei durchgeführt.
+
+
+        Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+5                                                                                                       COVID-19-Lagebericht vom 19.03.2020   5
+
+
+        o     Die Bundesregierung und die Regierungen der Bundesländer haben Leitlinien zum einheitlichen Vorgehen
+              zur weiteren Beschränkung von sozialen Kontakten im öffentlichen Bereich beschlossen. Dazu gehören die
+              Schließung von Läden mit wichtigen Ausnahmen (u.a. Lebensmittel, Apotheken, Drogerien, Tankstellen,
+              Banken, Lieferdienste, Poststellen). Zudem sollen Bars, Clubs, Diskotheken, Kneipen und ähnliche
+              Einrichtungen, Theater, Opern, Konzerthäuser, Museen, Messen, Ausstellungen, Kinos, Freizeit- und
+              Tierparks sowie Anbieter von Freizeitaktivitäten (drinnen und draußen), Sporteinrichtungen, Fitnessstudios,
+              Schwimm- und Spaßbäder, Spielplätze und sonstige Einzelhandel-Verkaufsstellen schließen. Dienstleister
+              und Handwerker können ihrer Tätigkeit weiterhin nachgehen. Alle Einrichtungen des Gesundheitswesens
+              bleiben unter Beachtung der gestiegenen hygienischen Anforderungen geöffnet. S.
+              https://www.bundesregierung.de/breg-de/themen/coronavirus/leitlinien-bund-laender-1731000
+        o     Zudem haben alle Bundesländer ab Beginn der 12. Kalenderwoche Schul- und Kitaschließungen eingeführt
+              oder die Unterrichtsverpflichtungen aufgehoben. Für weitergehende Informationen verweisen wir auf die
+              lokalen und Landesbehörden.
+        o     Das Auswärtige Amt hat eine Reisewarnung für alle nicht notwendigen, touristischen Reisen ins Ausland
+              ausgesprochen und weist auf das Rückholprogramm für deutsche Reisende hin. Es werden umfangreiche
+              Informationen für Reisende zur Verfügung gestellt: https://www.auswaertiges-
+              amt.de/de/ReiseUndSicherheit/covid-19/2296762
+
+      Besonders betroffene Gebiete in Deutschland und internationale Risikogebiete
+        o     Mit Stand vom 19.03.2020 gelten folgende Regionen als besonders betroffenes Gebiet in Deutschland:
+                  o Landkreis Heinsberg (NRW)
+
+      o Mit Stand vom 19.03.2020 gelten folgende Regionen als internationale Risikogebiete
+      (https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete.html):
+                   o    In China: Provinz Hubei (inkl. der Stadt Wuhan)
+                   o    Iran
+                   o    Italien
+                   o    In Frankreich: Region Grand Est (diese Region enthält Elsass, Lothringen und Champagne-Ardenne)
+                   o    In Österreich: Bundesland Tirol
+                   o    In Spanien: Madrid
+                   o    In Südkorea: Provinz Gyeongsangbuk-do (Nord-Gyeongsang)
+                   o    In den Vereinigten Staaten: Bundesstaaten Kalifornien, Washington und New York
+
+      Aktualisierte Dokumente
+        o     Management von Kontaktpersonen
+              https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Kontaktperson/Dokumente_Tab.html
+
+
+
+    Epidemiologische Lage global                                   (Datenstand 19.03.2020, 15:00 Uhr)
+
+
+
+
+      Global
+        Zahlen und weitere Informationen zu COVID-19-Fällen in anderen Ländern finden Sie auf den Internetseiten des
+        ECDC: https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
+
+        Die Weltgesundheitsorganisation (WHO) hat am 11.03.2020 COVID-19 zur Pandemie erklärt. Als Pandemie wird
+        ein Krankheitsausbruch bezeichnet, der nicht mehr örtlich beschränkt ist.
+
+
+
+
+      Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+6     COVID-19-Lagebericht vom 19.03.2020
+
+
+
+
+    Empfehlungen und Maßnahmen global
+
+      WHO
+            Die WHO stellt umfangreiche Informationen und Dokumente zur Verfügung unter:
+             https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+
+      ECDC
+            Das ECDC hat am 13.03.2020 erneut eine Risikoeinschätzung herausgegeben
+             https://www.ecdc.europa.eu/en/current-risk-assessment-novel-coronavirus-situation. Das Risiko für
+             verbreitete und anhaltende COVID-19 Übertragung wird als mäßig für die Allgemeinbevölkerung und als
+             hoch für ältere Erwachsene und Personen mit chronischen Grundleiden eingestuft.
+
+            Das ECDC stellt zudem zahlreiche Dokumente und Informationen zur Verfügung unter:
+             https://www.ecdc.europa.eu/en/novel-coronavirus-china
+
+      Europa
+            In Österreich wurde ganz Tirol unter Quarantäne gestellt; alle Skigebiete wurden geschlossen.
+             https://www.sozialministerium.at/Informationen-zum-Coronavirus/Coronavirus---Aktuelle-
+             Ma%C3%9Fnahmen.html
+
+            Die Schweiz verhängte am 16.03.2020 den Notstand und schließt damit ihre Grenzen zu Deutschland,
+             Frankreich, Italien und Österreich. Öffentlich zugängliche Einrichtungen wurden vorerst bis zum 19.04.2020
+             geschlossen.
+
+            Das Vereinigte Königreich ändert seine Bekämpfungsstrategie. Ähnlich wie in anderen Ländern Europas
+             wurden seit dem 16.03.2020 Anweisungen zur Verringerung der sozialen Interaktionen sowie zur häuslichen
+             Quarantäne bei Auftreten respiratorischer Symptomen verkündet. Ab dem 17.03.2020 werden
+             Großveranstaltungen verboten.
+
+            Mehrere EU-Länder haben bereits ihre Grenzen zu europäischen Nachbarländern geschlossen. Darunter sind
+             Dänemark, Polen, Österreich, Tschechien, Schweiz und die Slowakei. Deutschland hat die Einreisen aus
+             Frankreich, Österreich, Luxemburg, Dänemark und der Schweiz eingeschränkt.
+
+            Die EU-Staaten Italien, Frankreich, Spanien, und Österreich haben landesweite Ausgangssperren verhängt.
+
+            Seit dem 18.03.2020 gilt auch in Belgien eine Ausgangssperre, bis voraussichtlich zum 05.04.2020. Die
+             Maßnahmen sind ähnlich wie in weiteren europäischen Ländern: Ausgänge aufs Wesentliche reduzieren,
+             nicht-essentielle Geschäfte bleiben geschlossen, Telearbeit bevorzugen und soziale Kontakte vermeiden.
+
+            Am 17.03.2020 hat das EU-Parlament empfohlen, die Einreisen für Nicht-EU-Bürger in den nächsten 30
+             Tagen einzuschränken. Von der Bundesregierung wurde eine umgehende Umsetzung der
+             Einreisebeschränkungen für Nicht-EU-Bürger nach Deutschland zugesagt. Das Einreiseverbot soll für
+             Einreisen nach Europa aus Ländern, die nicht zur Europäischen Union gehören, gelten. Staatsangehörigen
+             von EU-Staaten und ihren Angehörigen wird die Durchreise durch Deutschland gestattet. Das gilt auch für
+             Bürger aus Großbritannien, Island, Liechtenstein, Norwegen und der Schweiz.
+
+      Weltweit
+            Viele Länder der Welt haben Reiseeinschränkungen und weitere Maßnahmen zur Eindämmung des COVID-
+             19-Ausbruchs eingeführt. Nähere Informationen findet man unter folgendem Link:
+             https://pandemic.internationalsos.com/2019-ncov/ncov-travel-restrictions-flight-operations-and-screening
+
+            Außer in Hubei haben in China 90% der Betriebe ihre normale Tätigkeit wieder aufgenommen. Eine
+             dreistufige Risikobewertung wird auf der Kreisebene weiterhin angewendet, um präventive und
+             Kontrollmaßnahmen aufrecht zu erhalten bzw. zu implementieren. Außer in Hubei haben zudem Bahnhöfe
+             und Flughäfen nach und nach begonnen, den Betrieb wieder aufzunehmen und die meisten Provinzen haben
+             den Straßenverkehr in andere Regionen wieder aufgenommen. Einschränkungen des öffentlichen
+
+        Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+7                                                                                 COVID-19-Lagebericht vom 19.03.2020   7
+
+
+            Nahverkehrs und privaten PKW-Verkehrs wurden ebenfalls in den meisten Städten aufgehoben.
+            https://pandemic.internationalsos.com/2019-ncov/ncov-travel-restrictions-flight-operations-and-screening
+
+
+
+
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
