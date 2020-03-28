@@ -1,0 +1,353 @@
+                             Täglicher Lagebericht des RKI
+                         zur Coronavirus-Krankheit-2019
+                                                    (COVID-19)
+                           27.03.2020 – AKTUALISIERTER STAND FÜR DEUTSCHLAND
+
+
+
+
+      Bestätigte Fälle                                    Verstorbene           Anteil Verstorbene
+              42.288                                              253                  0,6%
+            (+5.780*)                                           (+55*)
+                                                                                     *Änderung gegenüber Vortag
+
+– Änderungen seit dem letzten Bericht werden im Text in Blau dargestellt –
+
+
+Zusammenfassung der aktuellen Lage
+    Insgesamt wurden in Deutschland 42.288 laborbestätigte COVID-19-Fälle an das RKI übermittelt,
+     darunter 253 Todesfälle in Zusammenhang mit COVID-19-Erkrankungen.
+    Bezogen auf die Einwohnerzahl (Fälle pro 100.000 Einwohner) wurden die höchsten Inzidenzen aus
+     Hamburg (92), Baden-Württemberg (74) und Bayern (73) übermittelt.
+    Die meisten COVID-19-Fälle sind zwischen 35 und 59 Jahre alt. Männer sind mit 54% aller Fälle
+     etwas häufiger betroffen als Frauen (46%).
+    90% der Todesfälle sind 70 Jahre oder älter.
+    Seit 23.03.2020 gilt ein bundesweites Versammlungsverbot: Versammlungen von mehr als zwei
+     Personen sind mit wenigen Ausnahmen grundsätzlich verboten. Davon ausgenommen sind
+     Familien und Personen, die in einem Haushalt leben. Zudem mussten Restaurants und Betriebe für
+     die Körperpflege unverzüglich schließen.
+
+
+
+
+Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
+2    COVID-19-Lagebericht vom 27.03.2020
+
+
+
+    Epidemiologische Lage in Deutschland (Datenstand 27.03.2020, 0:00 Uhr)
+       Geografische Verteilung der Fälle
+       Es wurden 42.288 labordiagnostisch bestätigte COVID-19-Fälle an das Robert Koch-Institut übermittelt
+       (s. Tab. 1 und Abb. 1).
+       Tabelle 1: Verteilung der elektronisch übermittelten COVID-19-Fälle pro Bundesland in Deutschland (27.03.2020, 0:00 Uhr)
+                                                                  Differenz zum            Fälle/100.000
+                  Bundesland                       Anzahl                                                           Todesfälle
+                                                                      Vortag                    Einw.
+       Baden-Württemberg                             8.161                   878                       74                      70
+       Bayern                                        9.481                 1.488                       73                      55
+       Berlin                                        1.955                   299                       52                       8
+       Brandenburg                                     537                    60                       21                       1
+       Bremen                                          241                    30                       35                       1
+       Hamburg                                       1.693                   428                       92                       2
+       Hessen                                        2.323                   166                       37                       7
+       Mecklenburg-Vorpommern                          259                    15                       16                       0
+       Niedersachsen                                 2.810                   463                       35                      10
+       Nordrhein-Westfalen                           9.235                 1.311                       51                      72
+       Rheinland-Pfalz                               1.971                   155                       48                       8
+       Saarland                                        505                    72                       51                       2
+       Sachsen                                       1.305                   164                       32                       7
+       Sachsen-Anhalt                                  458                    40                       21                       2
+       Schleswig-Holstein                              812                   137                       28                       4
+       Thüringen                                       542                    74                       25                       4
+       Gesamt                                       42.288                 5.780                       51                     253
+
+
+
+
+       Abbildung 1: Übermittelte COVID-19-Fälle in Deutschland nach Landkreis und Bundesland (n=42.288, 27.03.2020, 0:00 Uhr). Die Fälle
+       werden nach dem Landkreis ausgewiesen, aus dem sie übermittelt wurden. Dies entspricht in der Regel dem Wohnort, der nicht mit dem
+       wahrscheinlichen Infektionsort übereinstimmen muss.
+
+
+
+       Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+3                                                                                                   COVID-19-Lagebericht vom 27.03.2020         3
+
+
+
+
+    Abbildung 2: Übermittelte COVID-19-Fälle in Deutschland nach Landkreis und Bundesland mit Meldedatum innerhalb der letzten 7 Tage,
+    ohne Fälle mit Infektionsort im Ausland (n= 17.772; 27.03.2020, 0:00 Uhr). Die Fälle werden nach dem Landkreis ausgewiesen, aus dem sie
+    übermittelt wurden. Dies entspricht in der Regel dem Wohnort, der nicht mit dem wahrscheinlichen Infektionsort übereinstimmen muss.
+
+
+    Bei den übermittelten COVID-19-Fällen wurde Deutschland 15.129-mal als Infektionsland genannt; am
+    häufigsten wurden die Bundesländer Nordrhein-Westfalen, Bayern und Baden-Württemberg genannt
+    (s. Tab. 2).
+    Tabelle 2: Häufigkeit, mit der die Bundesländer als
+    wahrscheinliche Expositionsorte bei übermittelten COVID-19-
+    Fällen genannt wurden (27.03.2020, 0:00 Uhr)                           Tabelle 3: Die 10 häufigsten Länder, die als Expositionsort bei
+                                                                           übermittelten COVID-19-Fällen genannt wurden (27.03.2020,
+    Bundesland                                  Nennungen                  0:00 Uhr)
+
+    Nordrhein-Westfalen                                4.558
+    Bayern                                             3.774               Land                   Nennun-                   Häufig genannte
+                                                                                                      gen                          Regionen
+    Baden-Württemberg                                  1.477
+                                                                           Österreich               7.145                        Tirol: 2.924
+    Niedersachsen                                      1.221                                                                  Salzburg: 189,
+    Berlin                                                996                                                                 Vorarlberg: 82
+    Hessen                                                595              Italien                    1.443                    Trentino-alto
+                                                                                                                                 Adige: 279,
+    Rheinland-Pfalz                                       427                                                                 Lombardia: 52
+    Hamburg                                               225              Spanien                      267                      Madrid: 48
+    Thüringen                                             223              Frankreich                   212
+    Brandenburg                                           214              Schweiz                      210
+    Schleswig-Holstein                                    193              Ägypten                        92
+    Saarland                                              159              Vereinigte                     70                    New York: 36
+    Sachsen-Anhalt                                        137              Staaten
+    Sachsen                                               115              Vereinigtes                    69
+                                                                           Königreich
+    Mecklenburg-Vorpommern                                107
+                                                                           Israel                         43
+    Bremen                                                 47
+                                                                           Niederlande                    38
+
+
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+4   COVID-19-Lagebericht vom 27.03.2020
+
+
+
+      Insgesamt 9.870-mal wurde ein anderes Land als Expositionsort genannt; am häufigsten Österreich
+      und Italien (s. Tab. 3). Es lagen nur für ein Teil der Nennungen der ausländischen Expositionsorte auch
+      regionale Angaben vor, so dass diese Zahlen nur als Minimum anzusehen sind (häufigste Angaben
+      s. Tab 3).
+
+      Zeitlicher Verlauf
+      Der Erkrankungsbeginn der COVID-19-Fälle liegt zwischen dem 23.01.2020 und dem 26.03.2020. Bei
+      17.651 Fällen ist der Erkrankungsbeginn nicht bekannt bzw. diese Fälle sind nicht symptomatisch
+      erkrankt und es wird daher das Meldedatum angezeigt (s. Abb. 3).
+
+
+
+
+      Abbildung 3: Anzahl der an das RKI übermittelten COVID-19-Fälle nach Erkrankungsdatum- bzw. nach Meldedatum. Dargestellt werden
+      nur Fälle mit Symptombeginn oder Meldedatum seit dem 20.02.2020. Die abnehmende Fallzahl über die letzten Tage kann durch den
+      Übermittlungsverzug bedingt sein (27.03.2020, 0:00 Uhr).
+
+
+
+
+      Abbildung 4: Anzahl der seit dem 20.02.2020 an das RKI übermittelten COVID-19-Fälle nach Meldedatum. Die dem RKI im Vergleich zum
+      Vortag neu übermittelten Fälle werden in orange dargestellt und damit von den bereits am Vortag bekannten Fällen (blau) abgegrenzt.
+      Dargestellt werden nur Fälle mit Meldedatum seit dem 20.02.2020. Das Meldedatum ist das Datum, an dem das Gesundheitsamt Kenntnis
+      über den Fall erlangt und ihn elektronisch erfasst hat. Zwischen der Meldung durch die Ärzte und Labore an das Gesundheitsamt und der
+      Übermittlung der Fälle an die zuständigen Landesbehörden und das RKI können einige Tage vergehen (Übermittlungsverzug). Jeden Tag
+      werden dem RKI neue Fälle übermittelt, die am gleichen Tag oder bereits an früheren Tagen an das Gesundheitsamt gemeldet worden
+      sind.
+
+
+
+
+      Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+5                                                                                             COVID-19-Lagebericht vom 27.03.2020     5
+
+
+
+    Demografische Verteilung
+    Von den Fällen mit Angabe zum Geschlecht sind 22.677 männlich (54%) und 19.453 weiblich (46%).
+    Insgesamt sind von den Fällen 307 Kinder unter 5 Jahren, 846 Kinder im Alter von 5 bis 14 Jahren,
+    32.128 Personen im Alter von 15 bis 59 Jahren und 8.869 Personen in der Altersgruppe ab 60 Jahre
+    (s. Abb. 5). Bei 142 Personen ist das Alter unbekannt. Der Altersmedian liegt bei 48 Jahren.
+
+
+
+
+    Abbildung 5: Darstellung der übermittelten COVID-19-Fälle/100.000 Einwohner in Deutschland nach Altersgruppe und Geschlecht (n=
+    42.009 Fälle) (27.03.2020, 0:00 Uhr)
+
+    Klinische Aspekte
+    Für 30.393 übermittelte Fälle liegen klinische Informationen vor; davon wurde für 957 Fälle
+    angegeben, dass keine für COVID-19 bedeutsamen Symptome bestanden. Häufig genannte
+    Manifestationen waren Husten (16.316; 54%), Fieber (12.589; 41%) und Schnupfen (7.015; 23%). Für
+    519 Fälle (2%) ist bekannt, dass sie eine Pneumonie entwickelt haben. Eine Hospitalisierung wurde bei
+    3.245 (11%) der 30.822 übermittelten COVID-19-Fälle mit diesbezüglichen Angaben angegeben.
+    Geschätzte 7.600 Personen sind von ihrer COVID-19-Infektion genesen. Bewertet wurden Fälle mit
+    bekanntem Erkrankungsbeginn bis zum 12.03.2020, die weder eine Pneumonie hatten noch unter
+    Dyspnoe litten, die nicht hospitalisiert werden mussten oder die bereits aus dem Krankenhaus
+    entlassen wurden und die nicht verstorben sind. Einbezogen in die Schätzung wurden nur solche Fälle
+    mit Angaben für die verwendeten Kriterien Erkrankungsdatum, Symptomatik, Hospitalisierungsstatus,
+    Verstorbenenstatus.
+    Seit dem 09.03.2020 sind 253 Personen in Deutschland im Zusammenhang mit einer COVID-19-
+    Erkrankung verstorben. Es handelt sich um 164 Männer und 88 Frauen. Der Altersmedian liegt bei 82
+    Jahren, die Spanne zwischen 42 und 100 Jahren. Von den Todesfällen waren 228 (90%) Personen 70
+    Jahre und älter (jedoch nur 10% aller Fälle).
+
+    Hinweise zur Datenerfassung und -bewertung
+    Im Lagebericht werden die bundesweit einheitlich erfassten und an das RKI übermittelten Daten zu
+    bestätigten COVID-19-Fällen dargestellt. COVID-19-Verdachtsfälle und -Erkrankungen sowie Nachweise
+    von SARS-CoV-2 werden gemäß Infektionsschutzgesetz an das zuständige Gesundheitsamt gemeldet.
+    Die Gesundheitsämter ermitteln ggf. zusätzliche Informationen, bewerten den Fall und leiten die
+    notwendigen Infektionsschutzmaßnahmen ein. Die Daten werden spätestens am nächsten Arbeitstag
+
+
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+6    COVID-19-Lagebericht vom 27.03.2020
+
+
+
+       vom Gesundheitsamt elektronisch an die zuständige Landesbehörde und von dort an das RKI
+       übermittelt. Am RKI werden sie mittels weitgehend automatisierter Algorithmen validiert.
+       Es werden nur Fälle veröffentlicht, bei denen eine labordiagnostische Bestätigung unabhängig vom
+       klinischen Bild vorliegt. Die Daten werden am RKI einmal täglich jeweils um 0:00 Uhr aktualisiert.
+       Durch die Dateneingabe und Datenübermittlung entsteht von dem Zeitpunkt des Bekanntwerdens des
+       Falls bis zur Veröffentlichung durch das RKI ein Zeitverzug, sodass es Abweichungen hinsichtlich der
+       Fallzahlen zu anderen Quellen geben kann.
+
+    Ergebnisse aus weiteren Surveillancesystemen des RKI in Zusammenarbeit mit anderen
+    Partnern
+       Die deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin (DIVI), das Robert Koch-
+       Institut (RKI) und die Deutsche Krankenhausgesellschaft (DKG) haben das DIVI-Intensivregister
+       aufgebaut: https://www.divi.de/register/intensivregister.
+       Hier können Krankenhäuser Angaben zu ihren Kapazitäten für intensivmedizinische Behandlungen
+       machen. Mit Stand 27.03.2020 beteiligen sich 687 Kliniken, die etwa zwei Drittel aller Intensivbetten in
+       Deutschland vorhalten. Insgesamt wurden 12.975 Intensivbetten registriert, wovon 6.864 (53%) belegt
+       sind. 6.204 Betten werden binnen 24 Stunden neu belegbar. Derzeit befinden sich in den
+       teilnehmenden Kliniken 939 COVID-19-Patienten in intensivmedizinischer Behandlung, davon werden
+       642 (68%) beatmet. Insgesamt 238 COVID-19-Patienten wurden aus der Intensivbehandlung entlassen,
+       davon sind 58 (24%) verstorben.
+
+    Risikobewertung durch das RKI
+       Es handelt sich weltweit und in Deutschland um eine sehr dynamische und ernst zu nehmende
+       Situation. Bei einem Teil der Fälle sind die Krankheitsverläufe schwer, auch tödliche Krankheitsverläufe
+       kommen vor. Die Zahl der Fälle in Deutschland steigt weiter an. Die Gefährdung für die Gesundheit der
+       Bevölkerung in Deutschland wird derzeit insgesamt als hoch eingeschätzt, für Risikogruppen als sehr
+       hoch. Die Wahrscheinlichkeit für schwere Krankheitsverläufe nimmt mit zunehmendem Alter und
+       bestehenden Vorerkrankungen zu. Diese Gefährdung variiert von Region zu Region. Die Belastung des
+       Gesundheitswesens hängt maßgeblich von der regionalen Verbreitung der Infektion, den vorhandenen
+       Kapazitäten und den eingeleiteten Gegenmaßnahmen (Isolierung, Quarantäne, soziale Distanzierung)
+       ab und kann örtlich sehr hoch sein. Diese Einschätzung kann sich kurzfristig durch neue Erkenntnisse
+       ändern.
+
+    Empfehlungen und Maßnahmen in Deutschland
+       Maßnahmen
+           Das Bundesinnenministerium hat ein Einreiseverbot für Saisonarbeiter angeordnet. Erntehelfern
+            und anderen Saison-Arbeitskräften wird seit dem 25.03.2020 die Einreise nach Deutschland
+            verweigert. Die Regelung gilt für die Einreise aus allen Drittstaaten und aus den meisten EU-
+            Staaten. https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2020/03/pm-
+            saisonarbeiter.html
+           Bundeskanzlerin Merkel und die Ministerpräsidenten haben ein bundesweites
+            Versammlungsverbot beschlossen, das seit dem 23.03.2020 Versammlungen von mehr als zwei
+            Personen mit Ausnahme von Familien sowie in einem Haushalt lebenden Personen grundsätzlich
+            verbietet. Zudem wurden Restaurants und Betriebe für die Körperpflege geschlossen. Menschen
+            müssen in der Öffentlichkeit einen Mindestabstand von 1,5 Metern einhalten.
+            https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-
+            bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248
+
+
+       Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+7                                                                               COVID-19-Lagebericht vom 27.03.2020   7
+
+
+
+        Das Auswärtige Amt hat eine Reisewarnung für alle nicht notwendigen, touristischen Reisen ins
+         Ausland ausgesprochen und weist auf Rückholaktionen für deutsche Reisende hin. Es werden
+         umfangreiche Informationen für Reisende zur Verfügung gestellt: https://www.auswaertiges-
+         amt.de/de/ReiseUndSicherheit/covid-19/2296762
+        Am 18.03.2020 hat die Bundesregierung die Einreisen für Nicht-EU-Bürger in den nächsten 30
+         Tagen eingeschränkt. Staatsangehörigen von EU-Staaten und ihren Angehörigen wird die
+         Durchreise durch Deutschland gestattet. Das gilt auch für Bürger aus Großbritannien, Island,
+         Liechtenstein, Norwegen und der Schweiz.
+
+    Besonders betroffene Gebiete in Deutschland und internationale Risikogebiete
+        Landkreis Heinsberg (NRW)
+
+    Internationale Risikogebiete
+        Ägypten
+        Iran
+        Italien
+        Österreich
+        In Frankreich: Region Grand Est (diese Region enthält Elsass, Lothringen und Champagne-
+         Ardenne), Iles-de-France (inkl. Paris)
+        In der Schweiz: die Kantone Tessin, Waadt und Genf
+        In Spanien: die Regionen Madrid, Navarra, la Rioja, und Pais Vasco
+        In Südkorea: die Stadt Daegu und die Provinz Gyeongsangbuk-do (Nord-Gyeongsang)
+        In den Vereinigten Staaten: Bundesstaaten Kalifornien, Washington, New York und New Jersey
+    Die Provinz Hubei in China wird nicht länger als Risikogebiet eingeschätzt (25.03.2020).
+
+    Neue Dokumente
+        Schwereeinschätzung von COVID-19 mit Vergleichsdaten zu Pneumonien aus dem
+         Krankenhaussentinel für schwere akute Atemwegserkrankungen am RKI (ICOSARI)
+         https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/14_20.pdf?__blob=public
+         ationFile
+              o     Patienten mit Pneumoniediagnose im ICOSARI-Sentinel in einem Zeitraum ansteigender
+                    Influenza-Aktivität in Deutschland (jeweils 3. – 5. KW) in den Jahren 2015 – 2019 wurden
+                    mit publizierten Fallserien bestätigter COVID-19-Pneumomiepatienten in China verglichen.
+                    Bisherige Ergebnisse weisen auf einen deutlich höheren Anteil beatmungspflichtiger
+                    Patienten bei COVID-19 hin, die im Vergleich zu saisonalen Grippewellen eher jünger sein
+                    können, sehr viel länger beatmet werden müssen und nicht unbedingt an
+                    Grunderkrankungen leiden.
+
+    Aktualisierte Dokumente
+    Seit dem 26.03.2020 wurden folgende Dokumente aktualisiert:
+        FAQ zu "Welchen Vorteil bringt Abstand halten bzw. die Beschränkung sozialer Kontakte?"
+         https://www.rki.de/SharedDocs/FAQ/NCOV2019/FAQ_Liste.html
+
+
+
+
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+8    COVID-19-Lagebericht vom 27.03.2020
+
+
+
+    Epidemiologische Lage global
+       Global
+       Zahlen und weitere Informationen zu COVID-19-Fällen in anderen Ländern finden Sie auf den
+       Internetseiten des ECDC: https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
+       Die Weltgesundheitsorganisation (WHO) hat am 11.03.2020 COVID-19 zur Pandemie erklärt. Als
+       Pandemie wird ein Krankheitsausbruch bezeichnet, der nicht mehr örtlich beschränkt ist.
+
+    Empfehlungen und Maßnahmen global
+       WHO
+           Die WHO stellt umfangreiche Informationen und Dokumente zur Verfügung unter:
+            https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+           Situation Reports der WHO: https://www.who.int/emergencies/diseases/novel-coronavirus-
+            2019/situation-reports
+
+       ECDC
+           Das ECDC hat am 25.03.2020 erneut eine Risikoeinschätzung herausgegeben:
+            https://www.ecdc.europa.eu/en/current-risk-assessment-novel-coronavirus-situation
+           Das ECDC hat Erörterungen veröffentlicht in Bezug auf die sichere Handhabung von Leichen der
+            Personen, die möglicherweise oder gesichert an COVID-19 verstorben sind:
+            https://www.ecdc.europa.eu/en/publications-data/considerations-related-safe-handling-bodies-
+            deceased-persons-suspected-or
+           Das ECDC stellt zudem zahlreiche Dokumente und Informationen zur Verfügung unter:
+            https://www.ecdc.europa.eu/en/novel-coronavirus-china
+
+       Europa
+           Das britische Parlament in London hat ein Corona-Notstandsgesetz verabschiedet. Das Gesetz
+            bevollmächtigt die Regierung und Behörden unter anderem, die Ausgangsbeschränkungen und
+            Schließungen von Geschäften notfalls mit Zwangsmaßnahmen durchzusetzen. Außerdem könne
+            durch das Gesetz leichter auf private Daten der Bürger zugegriffen werden. Die Behörden erhalten
+            auch das Recht, Corona-Infizierte und Verdachtsfälle zwangsweise in Quarantäne zu schicken.
+        Spanien hat die bestehenden Ausgangssperren um 2 Wochen bis zum 11.04.2020 verlängert.
+           Polen hat seit dem 24.03.2020 die bisherige Ausnahme für Pendler von der 14-tägigen
+            Quarantänepflicht gestrichen. Dadurch ist ein grenzüberschreitendes Arbeiten nicht mehr möglich.
+
+       Weltweit
+           Die Staats- und Regierungschefs der führenden Wirtschaftsmächte sind am 26.03.2020 zu einem
+            Video-Sondergipfel zur Corona-Krise zusammen gekommen. Bei dem virtuellen Treffen der G20
+            soll es um weltweit koordinierte Schritte zur Eindämmung der Pandemie und zur Abfederung der
+            wirtschaftlichen Auswirkungen gehen.
+           Viele Länder der Welt haben Reiseeinschränkungen und weitere Maßnahmen zur Eindämmung
+            des COVID-19-Ausbruchs eingeführt. Nähere Informationen findet man unter folgendem Link:
+            https://pandemic.internationalsos.com/2019-ncov/ncov-travel-restrictions-flight-operations-and-
+            screening
+
+
+
+
+       Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
