@@ -1,0 +1,392 @@
+                              Täglicher Lagebericht des RKI
+                          zur Coronavirus-Krankheit-2019
+                                                     (COVID-19)
+                            01.04.2020 – AKTUALISIERTER STAND FÜR DEUTSCHLAND
+
+
+
+
+Bestätigte Fälle                    Verstorbene                    Anteil Verstorbene                  Genesene
+      67.366                              732                                 1,1%                 ca. 18.700**
+     (+5.453*)                          (+149*)
+                                                                                 *Änderung gegenüber Vortag; **geschätzter Wert
+
+ – Änderungen seit dem letzten Bericht werden im Text in Blau dargestellt –
+
+
+ Zusammenfassung der aktuellen Lage
+     Insgesamt wurden in Deutschland 67.366 laborbestätigte COVID-19-Fälle an das RKI übermittelt,
+      darunter 732 Todesfälle in Zusammenhang mit COVID-19-Erkrankungen.
+     Bezogen auf die Einwohnerzahl (Fälle pro 100.000 Einwohner) wurden die höchsten Inzidenzen
+      aus Hamburg (126), Bayern (126) und Baden-Württemberg (121) übermittelt.
+     Die meisten COVID-19-Fälle (73%) sind zwischen 15 und 59 Jahre alt. Männer sind mit 52% aller
+      Fälle etwas häufiger betroffen als Frauen (48%).
+     86% der Todesfälle sind 70 Jahre oder älter.
+     Seit 23.03.2020 gilt ein bundesweites Versammlungsverbot: Versammlungen von mehr als zwei
+      Personen sind mit wenigen Ausnahmen grundsätzlich verboten. Davon ausgenommen sind
+      Familien und Personen, die in einem Haushalt leben. Zudem mussten Restaurants und Betriebe
+      für die Körperpflege unverzüglich schließen.
+     Mit In-Kraft-Treten des Gesetzes zum Schutz der Bevölkerung bei einer epidemischen Lage von
+      nationaler Tragweite erhält der Bund zusätzliche Kompetenzen zur Ausbruchsbekämpfung.
+
+
+
+
+ Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
+2    COVID-19-Lagebericht vom 02.04.2020
+
+
+
+    Epidemiologische Lage in Deutschland (Datenstand 01.04.2020, 0:00 Uhr)
+       Geografische Verteilung der Fälle
+       Es wurden 67.366 (+5.453) labordiagnostisch bestätigte COVID-19-Fälle an das Robert Koch-Institut
+       (RKI) übermittelt (s. Tab. 1 und Abb. 1).
+
+
+       Tabelle 1: Übermittelte COVID-19-Fälle und -Todesfälle pro Bundesland in Deutschland (01.04.2020, 0:00 Uhr)
+
+                Bundesland                     Anzahl            Differenz zum                  Fälle/100.000              Todesfälle
+                                                                     Vortag                          Einw.
+       Baden-Württemberg                       13.410                       1.076                           121                  197
+
+       Bayern                                  16.497                           1.687                                126         225
+
+       Berlin                                    2.754                             179                                73          16
+
+       Brandenburg                                 881                               83                               35           4
+
+       Bremen                                      311                               17                               46           5
+
+       Hamburg                                   2.311                             120                               126          14
+
+       Hessen                                    3.445                             162                                55          21
+       Mecklenburg-                                406                               40                               25           3
+       Vorpommern
+       Niedersachsen                             4.382                             319                                55          42
+
+       Nordrhein-Westfalen                     14.351                           1.126                                 80         134
+
+       Rheinland-Pfalz                           2.899                             173                                71          23
+
+       Saarland                                    829                               47                               84           8
+
+       Sachsen                                   2.034                             152                                50          17
+
+       Sachsen-Anhalt                              750                               70                               34           7
+
+       Schleswig-Holstein                        1.246                             126                                43          10
+
+       Thüringen                                   860                               76                               40           6
+
+       Gesamt                                  67.366                           5.453                                 81         732
+
+
+
+
+       Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+3                                                                                             COVID-19-Lagebericht vom 02.04.2020       3
+
+
+
+
+    Abbildung 1: Übermittelte COVID-19-Fälle in Deutschland nach Landkreis und Bundesland (n=67.366, 01.04.2020, 0:00 Uhr). Die Fälle
+    werden nach dem Landkreis ausgewiesen, aus dem sie übermittelt wurden. Dies entspricht in der Regel dem Wohnort, der nicht mit
+    dem wahrscheinlichen Infektionsort übereinstimmen muss.
+
+
+
+
+    Abbildung 2: Seit 25.03.2020 übermittelte COVID-19-Fälle in Deutschland nach Landkreis und Bundesland (n=29.946, 01.04.2020, 0:00
+    Uhr). Die Fälle werden nach dem Landkreis ausgewiesen, aus dem sie übermittelt wurden. Dies entspricht in der Regel dem Wohnort,
+    der nicht mit dem wahrscheinlichen Infektionsort übereinstimmen muss.
+
+
+
+
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+4   COVID-19-Lagebericht vom 02.04.2020
+
+
+
+      Zeitlicher Verlauf
+      Die ersten Erkrankungsfälle traten in Deutschland im Januar 2020 auf. Bei 27.299 Fällen ist der
+      Erkrankungsbeginn nicht bekannt bzw. diese Fälle sind nicht symptomatisch erkrankt und es wird
+      daher das Meldedatum angezeigt (s. Abb. 3).
+
+
+
+
+      Abbildung 3: Anzahl der an das RKI übermittelten COVID-19-Fälle nach Erkrankungsdatum, ersatzweise nach Meldedatum. Dargestellt
+      werden nur Fälle mit Symptombeginn oder Meldedatum seit dem 20.02.2020. Die abnehmende Fallzahl über die letzten Tage kann
+      durch den Übermittlungsverzug bedingt sein (01.04.2020, 0:00 Uhr).
+
+
+
+
+      Abbildung 4: Anzahl der seit dem 20.02.2020 an das RKI übermittelten COVID-19-Fälle nach Meldedatum. Die dem RKI im Vergleich zum
+      Vortag neu übermittelten Fälle werden in orange dargestellt und damit von den bereits am Vortag bekannten Fällen (blau) abgegrenzt.
+      Dargestellt werden nur Fälle mit Meldedatum seit dem 20.02.2020 (01.04.2020, 0:00 Uhr). Das Meldedatum ist das Datum, an dem das
+      Gesundheitsamt Kenntnis über den Fall erlangt und ihn elektronisch erfasst hat. Zwischen der Meldung durch die Ärzte und Labore an
+      das Gesundheitsamt und der Übermittlung der Fälle an die zuständigen Landesbehörden und das RKI können einige Tage vergehen
+      (Übermittlungsverzug). Dem RKI werden täglich neue Fälle übermittelt, die am gleichen Tag oder bereits an früheren Tagen an das
+      Gesundheitsamt gemeldet worden sind.
+
+
+
+
+      Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+5                                                                                             COVID-19-Lagebericht vom 02.04.2020   5
+
+
+
+    Demografische Verteilung
+    Von den Fällen sind 52% männlich und 48% weiblich. Insgesamt sind von den Fällen 500 Kinder unter
+    5 Jahren, 1.324 Kinder im Alter von 5 bis 14 Jahren, 49.174 Personen im Alter von 15 bis 59 Jahren,
+    12.394 Personen in der Alter von 60 bis 79 Jahren und 3.784 in der Altersgruppe ab 80 Jahre
+    (s. Abb. 5). Bei 190 Personen ist das Alter unbekannt. Der Altersmedian liegt bei 48 Jahren.
+
+
+
+
+    Abbildung 5: Darstellung der übermittelten COVID-19-Fälle/100.000 Einwohner in Deutschland nach Altersgruppe und Geschlecht
+    (n= 66.930 Fälle) (01.04.2020, 0:00 Uhr)
+
+
+
+    Klinische Aspekte
+    Für 48.767 übermittelte Fälle liegen klinische Informationen vor. Häufig genannte Manifestationen
+    waren Husten (53%), Fieber (42%) und Schnupfen (23%). Für 992 Fälle (2%) ist bekannt, dass sie eine
+    Pneumonie entwickelt haben. Eine Hospitalisierung wurde bei 6.382 (13%) der 49.176 übermittelten
+    COVID-19-Fälle mit diesbezüglichen Angaben angegeben.
+    Geschätzte 18.700 Personen sind von ihrer COVID-19-Infektion genesen. Bewertet wurden Fälle mit
+    bekanntem Erkrankungsbeginn vor dem 18.03.2020, die weder eine Pneumonie hatten noch unter
+    Dyspnoe litten, die nicht hospitalisiert werden mussten oder die bereits aus dem Krankenhaus
+    entlassen wurden und nicht verstorben sind.
+    Seit dem 09.03.2020 sind 732 Personen in Deutschland im Zusammenhang mit einer COVID-19-
+    Erkrankung verstorben (Tab. 2). Es handelt sich um 479 (65%) Männer und 252 (34%) Frauen, für eine
+    Person ist das Geschlecht unbekannt. Der Altersmedian liegt bei 82 Jahren, die Spanne zwischen 28
+    und 105 Jahren. Von den Todesfällen waren 631 (86%) Personen 70 Jahre und älter. Im Unterschied
+    dazu beträgt der Anteil der ≥ 70-Jährigen an allen übermittelten COVID-19-Fällen nur 12%. Es häufen
+    sich in den letzten Tagen Berichte über COVID-19 bedingte Ausbrüche in Alters- und Pflegeheimen
+    sowie in Krankenhäusern. In einigen dieser Ausbrüche ist die Zahl der Verstorbenen vergleichsweise
+    hoch.
+    Tabelle 2: Dem RKI übermittelte COVID-19-Todesfälle nach Alter und Geschlecht (01.04.2020, 0:00 Uhr)
+
+                                                           Altersgruppe in Jahren
+    Geschlecht                <60                60 - 69           70 - 79        80 - 89                  >=90
+    männlich                   35                  42               129            225                      48
+    weiblich                   7                   16                42            144                      42
+
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+6    COVID-19-Lagebericht vom 02.04.2020
+
+
+
+       Hinweise zur Datenerfassung und -bewertung
+       Im Lagebericht werden die bundesweit einheitlich erfassten und an das RKI übermittelten Daten zu
+       bestätigten COVID-19-Fällen dargestellt. COVID-19-Verdachtsfälle und -Erkrankungen sowie
+       Nachweise von SARS-CoV-2 werden gemäß Infektionsschutzgesetz an das zuständige
+       Gesundheitsamt gemeldet. Die Gesundheitsämter ermitteln ggf. zusätzliche Informationen,
+       bewerten den Fall und leiten die notwendigen Infektionsschutzmaßnahmen ein. Die Daten werden
+       spätestens am nächsten Arbeitstag vom Gesundheitsamt elektronisch an die zuständige
+       Landesbehörde und von dort an das RKI übermittelt. Am RKI werden sie mittels weitgehend
+       automatisierter Algorithmen validiert.
+       Es werden nur Fälle veröffentlicht, bei denen eine labordiagnostische Bestätigung unabhängig vom
+       klinischen Bild vorliegt. Die Daten werden am RKI einmal täglich jeweils um 0:00 Uhr aktualisiert.
+       Durch die Dateneingabe und Datenübermittlung entsteht von dem Zeitpunkt des Bekanntwerdens
+       des Falls bis zur Veröffentlichung durch das RKI ein Zeitverzug, sodass es Abweichungen hinsichtlich
+       der Fallzahlen zu anderen Quellen geben kann.
+
+    DIVI-Intensivregister
+       Im Intensivregister der deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin
+       (DIVI), des RKI und der Deutschen Krankenhausgesellschaft (DKG) werden die intensivmedizinischen
+       Kapazitäten und die intensivmedizinisch behandelten COVID-19-Fälle in den teilnehmenden Kliniken
+       erfasst: https://www.divi.de/register/intensivregister.
+       Mit Stand 01.04.2020 beteiligen sich 912 Kliniken oder Abteilungen. Am 04.04.2020 ist eine
+       Umstellung geplant, nach der die Anzahl der teilnehmenden Kliniken besser abschätzbar sein wird.
+       Insgesamt wurden 18.598 Intensivbetten registriert, wovon 10.402 (56%) belegt sind; 8.196 Betten
+       sind aktuell frei. Insgesamt 8.328 Betten könnten binnen 24 Stunden neu belegt werden. Nähere
+       Informationen zu COVID-19-Fällen in intensivmedizinischer Behandlung sind in Tabelle 3 dargestellt.
+       https://www.divi.de/register/kartenansicht
+       Tabelle 3: Intensivmedizinisch behandelte COVID-19-Fälle erfasst im DIVI-Register (01.04.2020, 07:15 Uhr)
+
+                                                              Anzahl Fälle  Anteil Änderung zum Vortrag
+       in intensivmedizinischer Behandlung                            1.876                +390
+            - davon beatmet                                           1.532   82%          +343
+       abgeschlossene Behandlungen                                      745                +193
+            - davon verstorben                                          245   33%           +87
+
+
+    Labortestungen
+       Um zu ermitteln, wie viele Labortestungen bezüglich SARS-CoV-2 pro Kalenderwoche in Deutschland
+       durchgeführt werden und wie viele Tests positiv bzw. negativ ausfallen, hat das RKI eine
+       deutschlandweite Laborabfrage gestartet. Ergänzt wird diese Erfassung durch 3 weitere
+       Datenerhebungen vom Netzwerk für respiratorische Viren (RespVir), dem nationalen Netzwerk zur
+       Surveillance der Antibiotikaresistenz in Deutschland (ARS) und dem Interessenverband der
+       akkreditierten medizinischen Labore in Deutschland (ALM e.V). Die Rückmeldungen der Labore
+       ergaben, dass seit Beginn der Erfassung bis einschließlich Kalenderwoche 13/2020 bisher 918.460
+       Proben getestet wurden, davon wurden 64.906 positiv auf SARS-CoV-2 getestet. Da Labore in der
+       RKI-Testzahlabfrage die Tests der vergangenen Kalenderwochen nachmelden können, ist es möglich,
+       dass sich diese Zahlen noch leicht erhöhen.
+
+
+
+
+       Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+7                                                                                                COVID-19-Lagebericht vom 02.04.2020   7
+
+
+
+
+      Tabelle 4: Anzahl der Testungen in Deutschland (01.04.2020, 0:00 Uhr)
+
+
+      Kalenderwoche Anzahl    Positiv getestet                                    Teilnehmende
+      2020          Testungen                                                     Labore
+      11             127.457      7.582 (5,9%)                                           114
+      12             348.619     23.820 (6,8%)                                           152*
+      13             354.521     30.741 (8,7%)                                           143
+      *Erratum, die Zahl wurde am 26.03. falsch angegeben.
+
+    Risikobewertung durch das RKI
+      Es handelt sich weltweit und in Deutschland um eine sehr dynamische und ernst zu nehmende
+      Situation. Bei einem Teil der Fälle sind die Krankheitsverläufe schwer, auch tödliche
+      Krankheitsverläufe kommen vor. Die Zahl der Fälle in Deutschland steigt weiter an. Die Gefährdung
+      für die Gesundheit der Bevölkerung in Deutschland wird derzeit insgesamt als hoch eingeschätzt, für
+      Risikogruppen als sehr hoch. Die Wahrscheinlichkeit für schwere Krankheitsverläufe nimmt mit
+      zunehmendem Alter und bestehenden Vorerkrankungen zu. Diese Gefährdung variiert von Region zu
+      Region. Die Belastung des Gesundheitswesens hängt maßgeblich von der regionalen Verbreitung der
+      Infektion, den vorhandenen Kapazitäten und den eingeleiteten Gegenmaßnahmen (Isolierung,
+      Quarantäne, soziale Distanzierung) ab und kann örtlich sehr hoch sein. Diese Einschätzung kann sich
+      kurzfristig durch neue Erkenntnisse ändern.
+
+    Empfehlungen und Maßnahmen in Deutschland
+      Maßnahmen
+          Bayern, Brandenburg, Sachsen und das Saarland haben ihre Maßnahmen zur Eindämmung der
+           Pandemie bis zum 19.04.2020 beziehungsweise 20.04.2020 verlängert. Andere Bundesländer
+           hatten von Vornherein die Maßnahmen auf die Woche nach Ostern datiert.
+          Die Gesundheitsministerin Carola Reimann (SPD) hat am 30.03.2020 einen kompletten
+           Aufnahmestopp für Alten- und Pflegeheime in Niedersachsen verhängt. Ausnahmen gibt es nur,
+           wenn eine 14-tägige Quarantäne für neue Bewohner möglich ist.
+           https://www.ms.niedersachsen.de/startseite/service_kontakt/presseinformationen/reimann-
+           verhangt-aufnahmestopp-fur-alten-und-pflegeheime-186994.html
+          Generelle Besuchsverbote für Pflege- und Altersheime gelten in Baden-Württemberg, Bremen,
+           Brandenburg, Hamburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt, Schleswig-
+           Holstein und Thüringen.
+          In Deutschland führt Jena als erste Stadt eine Maskenpflicht ein. Zum 06.04.2020 solle das
+           Tragen eines Mund-und-Nasen-Schutzes in Jenaer Verkaufsstellen, dem öffentlichen Nahverkehr
+           und Gebäuden mit Publikumsverkehr verpflichtend werden. Auch im Landkreis Nordhausen soll
+           ab 6. April die Pflicht bestehen, beim Betreten öffentlicher geschlossener Räume sowie beim
+           Nutzen von Bus, Bahn und Taxi einen Mund- und Nasen-Schutz zu tragen.
+           https://rathaus.jena.de/de/abendlage-vom-30032020; https://www.landratsamt-
+           nordhausen.de/informationen-coronavirus.html
+          Feldteams des RKI unterstützen Maßnahmen der Ausbruchseindämmung mit Fokus auf
+           Ausbrüche in Alten- und Pflegeheimen sowie Krankenhäusern in mehreren Bundesländern.
+          Seit dem 31.03.2020 weist das RKI keine besonders betroffenen Gebiete mehr in Deutschland
+           aus. In vielen Landkreisen gibt es Ausbrüche mit zum Teil großen Fallzahlen. Daten zur aktuellen
+           Krankheitsaktivität in den Landkreisen finden sich auf dem Dashboard sowie in den täglichen
+           Lageberichten.
+
+      Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+8   COVID-19-Lagebericht vom 02.04.2020
+
+
+
+          Mit in Kraft treten des Gesetzes zum Schutz der Bevölkerung bei einer epidemischen Lage von
+           nationaler Tragweite am 28.03.2020 erhält der Bund zusätzliche Kompetenzen zur
+           Ausbruchsbekämpfung.
+           https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/2020/1-
+           quartal/corona-gesetzespaket-im-bundesrat.html
+          Bundeskanzlerin Merkel und die Ministerpräsidenten haben ein bundesweites
+           Versammlungsverbot für mindestens 14 Tage beschlossen, das seit dem 23.03.2020
+           Versammlungen von mehr als zwei Personen mit Ausnahme von Familien sowie in einem
+           Haushalt lebenden Personen grundsätzlich verbietet. Zudem wurden Restaurants und Betriebe
+           für die Körperpflege geschlossen. Menschen müssen in der Öffentlichkeit einen Mindestabstand
+           von 1,5 Metern einhalten. https://www.bundesregierung.de/breg-
+           de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-den-regierungschefinnen-und-
+           regierungschefs-der-laender-1733248
+          Das Auswärtige Amt hat eine Reisewarnung für alle nicht notwendigen, touristischen Reisen ins
+           Ausland ausgesprochen und weist auf Rückholaktionen für deutsche Reisende hin. Es werden
+           umfangreiche Informationen für Reisende zur Verfügung gestellt: https://www.auswaertiges-
+           amt.de/de/ReiseUndSicherheit/covid-19/2296762
+
+      Internationale Risikogebiete
+          Ägypten
+          Iran
+          Italien
+          Österreich
+          Frankreich
+          In der Schweiz: die Kantone Tessin, Waadt und Genf
+          Spanien
+          In Südkorea: die Stadt Daegu und die Provinz Gyeongsangbuk-do (Nord-Gyeongsang)
+          In den Vereinigten Staaten: Bundesstaaten Kalifornien, Washington, New York und New Jersey
+      Die Provinz Hubei in China wird nicht länger als Risikogebiet eingeschätzt (25.03.2020).
+
+      Neue und aktualisierte Dokumente
+          Das Bundesinstitut für Arzneimittel und Medizinprodukte gibt Hinweise zur Verwendung von
+           Schutzmasken (31.03.2020): www.bfarm.de/schutzmasken
+          Das RKI hält auf seinen Internetseiten umfangreiche Informationen zu COVID-19 vor:
+           https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV.html
+          Hinweise zur Testung von Patienten auf Infektion mit dem neuartigen Coronavirus SARS-CoV-2
+           (30.03.2020)
+           https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Vorl_Testung_nCoV.html?nn=
+           13490888
+          Die Bundesregierung hat eine neue Themenseite zum Coronavirus geschaltet, die alle
+           Informationen zu den Angeboten der gesamten Bundesregierung bündelt (30.03.2020)
+           http://www.bundesregierung.de/coronavirus
+
+
+
+
+      Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+9                                                                                 COVID-19-Lagebericht vom 02.04.2020   9
+
+
+
+    Epidemiologische Lage global
+      Zahlen und weitere Informationen zu COVID-19-Fällen in anderen Ländern finden Sie auf den
+      Internetseiten des ECDC: https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-
+      cases
+      Die Weltgesundheitsorganisation (WHO) hat am 11.03.2020 COVID-19 zur Pandemie erklärt. Als
+      Pandemie wird ein Krankheitsausbruch bezeichnet, der nicht mehr örtlich beschränkt ist.
+
+    Empfehlungen und Maßnahmen global
+      WHO
+          Die WHO stellt umfangreiche Informationen und Dokumente zur Verfügung unter:
+           https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+          Situation Reports der WHO: https://www.who.int/emergencies/diseases/novel-coronavirus-
+           2019/situation-reports
+
+      ECDC
+          Das ECDC hat am 25.03.2020 erneut eine Risikoeinschätzung herausgegeben:
+           https://www.ecdc.europa.eu/en/current-risk-assessment-novel-coronavirus-situation
+          Das ECDC hat Erörterungen veröffentlicht in Bezug auf die sichere Handhabung von Leichen der
+           Personen, die möglicherweise oder gesichert an COVID-19 verstorben sind:
+           https://www.ecdc.europa.eu/en/publications-data/considerations-related-safe-handling-bodies-
+           deceased-persons-suspected-or
+          Das ECDC hat am 31.03.2020 das Dokument mit Empfehlungen für Gesundheitseinrichtungen
+           aktualisiert: https://www.ecdc.europa.eu/en/publications-data/infection-prevention-and-
+           control-and-preparedness-covid-19-healthcare-settings
+          Das ECDC stellt zudem zahlreiche Dokumente und Informationen zur Verfügung unter:
+           https://www.ecdc.europa.eu/en/novel-coronavirus-china
+
+      Europa
+           Seit dem 28.03.2020 gelten für aus dem Ausland nach Italien einreisende Personen eine
+            Anzeigepflicht und eine Pflicht zur 14-tägigen Selbstisolation. https://www.auswaertiges-
+            amt.de/de/aussenpolitik/laender/italien-node/italiensicherheit/211322
+           Am 28.03.2020 hat Regierungschef Sanchez verschärfte Ausgangssperren in Spanien
+            angekündigt. Alle Beschäftigten in Spanien, die keine notwendigen Arbeiten erledigen, müssen
+            in den kommenden zwei Wochen zuhause bleiben.
+            https://twitter.com/desdelamoncloa/status/1243963689218256897
+
+      Weltweit
+          Viele Länder der Welt haben Reiseeinschränkungen und weitere Maßnahmen zur Eindämmung
+           des COVID-19-Ausbruchs eingeführt. Nähere Informationen findet man unter folgendem Link:
+           https://pandemic.internationalsos.com/2019-ncov/ncov-travel-restrictions-flight-operations-
+           and-screening
+
+
+
+
+      Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+

@@ -4,14 +4,20 @@ do
 done
 echo
 
-for i in {4..27}
-#for land in "Baden-Württemberg" 
+for monat in {3..4}
 do
-	echo -n "$i.3. "
-	for land in Brandenburg Berlin "Baden-Württemberg" Bayern Bremen Hessen Hamburg Mecklenburg-Vorpommern Niedersachsen "Nordrhein-Westfalen" "Rheinland-Pfalz" Saarland "Schleswig-Holstein" Sachsen Thüringen "Sachsen-Anhalt"
+	for tag in {1..31}
 	do
-		infizierte=$(cat $i.txt | grep "Tabelle 1:" -A 30 | grep "$land " | head -n 1 | awk '{print $2}' | tr -d ".")
-		echo -n $infizierte" "
-	done
-	echo 
-done	
+		file="2020-0$monat-$tag.txt"
+		if [ -f $file ]
+		then
+			echo -n "$tag.$monat. "
+			for land in Brandenburg Berlin "Baden-Württemberg" Bayern Bremen Hessen Hamburg Mecklenburg-Vorpommern Niedersachsen "Nordrhein-Westfalen" "Rheinland-Pfalz" Saarland "Schleswig-Holstein" Sachsen Thüringen "Sachsen-Anhalt"
+			do
+				infizierte=$(cat $file | grep "Tabelle 1:" -A 30 | grep "$land " | head -n 1 | awk '{print $2}' | tr -d ".")
+				echo -n $infizierte" "
+			done
+			echo 
+		fi
+	done	
+done

@@ -36,7 +36,7 @@ Zusammenfassung der aktuellen Lage
 
 
 Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
-2    COVID-19-Lagebericht vom 26.03.2020
+2    COVID-19-Lagebericht vom 02.04.2020
 
 
 
@@ -75,7 +75,7 @@ Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
 
 
        Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
-3                                                                                                   COVID-19-Lagebericht vom 26.03.2020       3
+3                                                                                                   COVID-19-Lagebericht vom 02.04.2020       3
 
 
 
@@ -151,7 +151,7 @@ sind.
 
 
 Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
-5                                                                                             COVID-19-Lagebericht vom 26.03.2020     5
+5                                                                                             COVID-19-Lagebericht vom 02.04.2020     5
 
 
 
@@ -188,13 +188,13 @@ Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
     Um zu ermitteln, wie viele Labortestungen bezüglich SARS-CoV-2 in Deutschland durchgeführt werden
     und wie viele Test positiv bzw. negativ ausfallen, hat das RKI eine deutschlandweite Laborabfrage
     gestartet. Ergänzt wird diese Erfassung durch 3 weitere Datenerhebungen vom Netzwerk für
-    respiratorische Erkrankungen (RespVir, RKI), dem nationales Netzwerk zur Surveillance der
+    respiratorische Erkrankungen (RespVir), dem nationales Netzwerk zur Surveillance der
     Antibiotikaresistenz in Deutschland (ARS, RKI) und dem Interessenverband der akkreditierten
     medizinischen Labore in Deutschland (ALM e.V). Die Rückmeldungen von 174 Laboren ergaben, dass
     seit Beginn der Erfassung bis einschließlich Kalenderwoche 12/2020 bisher 483.295 Proben getestet
 
     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
-6    COVID-19-Lagebericht vom 26.03.2020
+6    COVID-19-Lagebericht vom 02.04.2020
 
 
 
@@ -205,7 +205,8 @@ Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
        Kalenderwoche                    Anzahl             Positiv getestet         Teilnehmende
        2020                          Testungen                                             Labore
        11                              127.457                7.582 (5,9%)                    114
-       12                              348.619               23.820 (6,8%)                    176
+       12                              348.619               23.820 (6,8%)                   152*
+       *Erratum, die Zahl wurde am 26.03. falsch angegeben.
 
        Hinweise zur Datenerfassung und -bewertung
        Im Lagebericht werden die bundesweit einheitlich erfassten und an das RKI übermittelten Daten zu
@@ -246,15 +247,14 @@ Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
             Versammlungsverbot beschlossen, nach dem Versammlungen von mehr als zwei Personen mit
             Ausnahme von Familien sowie in einem Haushalt lebenden Personen grundsätzlich verboten sind.
             Zudem müssen Restaurants und Betriebe für die Körperpflege unverzüglich schließen. Menschen
-            müssen in der Öffentlichkeit einen Mindestabstand von 1,5 Metern einhalten.
        Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
-7                                                                                 COVID-19-Lagebericht vom 26.03.2020   7
+7                                                                                 COVID-19-Lagebericht vom 02.04.2020   7
 
 
 
+           müssen in der Öffentlichkeit einen Mindestabstand von 1,5 Metern einhalten.
            https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-
            bundeskanzlerin-mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248
-
           Die Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin(DIVI) veröffentlicht
            Übersicht über die verfügbaren Behandlungskapazitäten von Intensivstationen in Deutschland. Im
            DIVI-Intensivregister wird erfasst, in welchen Kliniken aktuell wie viele Plätze für COVID-19-
@@ -264,11 +264,11 @@ Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
            Ausland ausgesprochen und weist auf Rückholaktionen für deutsche Reisende hin. Es werden
            umfangreiche Informationen für Reisende zur Verfügung gestellt: https://www.auswaertiges-
            amt.de/de/ReiseUndSicherheit/covid-19/2296762
-
           Am 18.03.2020 hat die Bundesregierung die Einreisen für Nicht-EU-Bürger in den nächsten 30
            Tagen eingeschränkt. Staatsangehörigen von EU-Staaten und ihren Angehörigen wird die
            Durchreise durch Deutschland gestattet. Das gilt auch für Bürger aus Großbritannien, Island,
            Liechtenstein, Norwegen und der Schweiz.
+
           Das DIMDI hat einen neuen ICD-Code für den Verdacht auf COVID-19 eingeführt:
            https://www.dimdi.de/dynamic/de/das-dimdi/aktuelles/meldung/icd-10-who-und-gm-u07.2-
            kodiert-verdacht-auf-covid-19/
@@ -302,9 +302,8 @@ Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
       Pandemie wird ein Krankheitsausbruch bezeichnet, der nicht mehr örtlich beschränkt ist.
 
 
-
       Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
-8    COVID-19-Lagebericht vom 26.03.2020
+8    COVID-19-Lagebericht vom 02.04.2020
 
 
 
