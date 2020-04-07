@@ -3,8 +3,8 @@ allFiles=""
 for i in {2..18}
 do
 	echo "Land: $i"
-	cat plotdata2 | awk '{print $'$i'-val;val=$'$i'}' > temp/$i.txt
-	cat plotdata2 | awk '{if ($'$i'+1==1){d=1;} else {d=$'$i';} print ($'$i'-val)/d;val=$'$i'}' > temp/relativ_$i.txt
+	cat plotdata2.csv | awk '{print $'$i'-val;val=$'$i'}' > temp/$i.txt
+	cat plotdata2.csv | awk '{if ($'$i'+1==1){d=1;} else {d=$'$i';} print ($'$i'-val)/d;val=$'$i'}' > temp/relativ_$i.txt
 	allFiles="$allFiles temp/$i.txt"
 	allFiles_relativ="$allFiles_relativ temp/relativ_$i.txt"
 done

@@ -1,8 +1,9 @@
+rm plotdata.csv
 for land in Brandenburg Berlin "Baden-Württemberg" Bayern Bremen Hessen Hamburg Mecklenburg-Vorpommern Niedersachsen "Nordrhein-Westfalen" "Rheinland-Pfalz" Saarland "Schleswig-Holstein" Sachsen Thüringen "Sachsen-Anhalt"
 do
-	echo -n $land" "
+	echo -n $land" " >> plotdata.csv
 done
-echo
+echo >> plotdata.csv
 
 for monat in {3..4}
 do
@@ -16,7 +17,7 @@ do
 			then
 				continue
 			fi
-			echo -n "$tag.$monat. "
+			echo -n "$tag.$monat. " >> plotdata.csv
 			for land in Brandenburg Berlin "Baden-Württemberg" Bayern Bremen Hessen Hamburg "Mecklenburg-Vorpommern" Niedersachsen "Nordrhein-Westfalen" "Rheinland-Pfalz" Saarland "Schleswig-Holstein" Sachsen Thüringen "Sachsen-Anhalt"
 			do
 				infizierte=$(cat $file | grep "Tabelle 1:" -A 35 | egrep "$land[ *]" | head -n 1 | awk '{print $2}' | tr -d ".")
@@ -27,9 +28,11 @@ do
 					infizierte=$(cat $file | grep "Tabelle 1:" -A 35 | grep "Mecklenburg- " | head -n 1 | awk '{print $2}' | tr -d ".")
 					fi
 				fi
-				echo -n $infizierte" "
+				echo -n $infizierte" " >> plotdata.csv
 			done
-			echo 
+			echo >> plotdata.csv 
 		fi
 	done	
 done
+
+awk '{c=0;for(i=2;i<=NF;++i){c+=$i};print $0, " ", c}' plotdata.csv > plotdata2.csv

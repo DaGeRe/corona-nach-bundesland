@@ -17,7 +17,7 @@ do
 done
 
 # April
-for i in {1..2}
+for i in {1..6}
 do 
 	download https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-04-0$i-de.pdf?__blob=publicationFile 2020-04-$i.pdf
 done
