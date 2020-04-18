@@ -1,0 +1,432 @@
+                              Täglicher Lagebericht des RKI
+                          zur Coronavirus-Krankheit-2019
+                                                     (COVID-19)
+                            16.04.2020 – AKTUALISIERTER STAND FÜR DEUTSCHLAND
+
+
+
+
+Bestätigte Fälle                    Verstorbene                    Anteil Verstorbene                  Genesene
+   130.450                              3.569                                 2,7%                 ca. 77.000**
+  (+ 2.866*)                           (+ 315*)
+                                                                                 *Änderung gegenüber Vortag; **geschätzter Wert
+
+ – Änderungen seit dem letzten Bericht werden im Text in Blau dargestellt –
+
+
+ Zusammenfassung der aktuellen Lage
+     Insgesamt wurden in Deutschland 130.450 laborbestätigte COVID-19-Fälle an das RKI
+      übermittelt, darunter 3.569 Todesfälle in Zusammenhang mit COVID-19-Erkrankungen.
+     Bezogen auf die Einwohnerzahl (Fälle pro 100.000 Einwohner) wurden die höchsten Inzidenzen
+      aus Bayern (269), Baden-Württemberg (234), dem Saarland (222) und Hamburg (215)
+      übermittelt.
+     Die meisten COVID-19-Fälle (68%) sind zwischen 15 und 59 Jahre alt. Insgesamt sind männliche
+      und weibliche Personen mit 48% bzw. 52% annähernd gleich häufig betroffen.
+     86% der Todesfälle und 18% aller Fälle sind 70 Jahre oder älter.
+     COVID-19-bedingte Ausbrüche in Alters- und Pflegeheimen sowie in Krankenhäusern werden
+      weiterhin berichtet. In einigen dieser Ausbrüche ist die Zahl der Verstorbenen vergleichsweise
+      hoch.
+     Seit dem 10.04.2020 weist das Robert Koch-Institut keine internationalen Risikogebiete oder
+      besonders betroffenen Gebiete in Deutschland mehr aus.
+
+
+
+
+ Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
+2    COVID-19-Lagebericht vom 16.04.2020
+
+
+
+    Epidemiologische Lage in Deutschland (Datenstand 16.04.2020, 0:00 Uhr)
+       Geografische Verteilung der Fälle
+       Es wurden 130.450 (+2.866) labordiagnostisch bestätigte COVID-19-Fälle an das Robert Koch-Institut
+       (RKI) übermittelt (s. Tab. 1 und Abb. 1).
+       Tabelle 1: Übermittelte COVID-19-Fälle und -Todesfälle pro Bundesland in Deutschland (16.04.2020, 0:00 Uhr).
+
+                                                                            Differenz                    Fälle/
+        Bundesland                                        Anzahl                                                            Todesfälle
+                                                                              Vortag             100.000 Einw.
+        Baden-Württemberg                                25.881                     443                    234                     802
+        Bayern                                           35.142                     848                    269                   1.049
+        Berlin                                            4.848                     126                    129                      74
+        Brandenburg                                       2.058                     108                     82                      54
+        Bremen                                              507                       7                     74                      21
+        Hamburg                                           3.953                      84                    215                      80
+        Hessen                                            6.470                     123                    103                     187
+        Mecklenburg-Vorpommern                              634                      10                     39                      13
+        Niedersachsen                                     8.188                     169                    103                     248
+        Nordrhein-Westfalen                              26.383                     548                    147                     663
+        Rheinland-Pfalz                                   5.087                      83                    125                      87
+        Saarland                                          2.201                      56                    222                      71
+        Sachsen                                           3.955                     136                     97                      94
+        Sachsen-Anhalt                                    1.248                      25                     57                      26
+        Schleswig-Holstein                                2.294                      49                     79                      55
+        Thüringen                                         1.601                      51                     75                      45
+        Gesamt                                          130.450                   2.866                    157                   3.569
+
+
+
+
+       Abbildung 1: Übermittelte COVID-19-Fälle in Deutschland nach Landkreis und Bundesland (n= 130.450, 16.04.2020, 0:00 Uhr). Die Fälle
+       werden nach dem Landkreis ausgewiesen, aus dem sie übermittelt wurden. Dies entspricht in der Regel dem Wohnort, der nicht mit
+       dem wahrscheinlichen Infektionsort übereinstimmen muss.
+
+
+
+       Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+3                                                                                             COVID-19-Lagebericht vom 16.04.2020       3
+
+
+
+
+    Abbildung 2: Übermittelte COVID-19-Fälle der letzten 7 Tagen in Deutschland nach Landkreis und Bundesland (n=17.499), 16.04.2020,
+    0:00 Uhr). Die Fälle werden nach dem Landkreis ausgewiesen, aus dem sie übermittelt wurden. Dies entspricht in der Regel dem
+    Wohnort, der nicht mit dem wahrscheinlichen Infektionsort übereinstimmen muss.
+
+    Zeitlicher Verlauf
+    Die ersten Erkrankungsfälle traten in Deutschland im Januar 2020 auf. Bei 47.681 Fällen ist der
+    Erkrankungsbeginn nicht bekannt bzw. diese Fälle sind nicht symptomatisch erkrankt und es wird
+    daher das Meldedatum angezeigt (s. Abb. 3).
+
+
+
+
+    Abbildung 3: Anzahl der an das RKI übermittelten COVID-19-Fälle nach Erkrankungsdatum, ersatzweise nach Meldedatum. Dargestellt
+    werden nur Fälle mit Symptombeginn oder Meldedatum seit dem 20.02.2020. Die abnehmende Fallzahl über die letzten Tage kann
+    durch den Übermittlungsverzug bedingt sein (16.04.2020, 0:00 Uhr).
+
+
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+4   COVID-19-Lagebericht vom 16.04.2020
+
+
+
+
+      Abbildung 4: Anzahl der seit dem 20.02.2020 an das RKI übermittelten COVID-19-Fälle nach Meldedatum. Die dem RKI im Vergleich zum
+      Vortag neu übermittelten Fälle werden in orange dargestellt und damit von den bereits am Vortag bekannten Fällen (blau) abgegrenzt.
+      Das Meldedatum ist das Datum, an dem das Gesundheitsamt Kenntnis über den Fall erlangt und ihn elektronisch erfasst hat. Zwischen
+      der Meldung durch die Ärzte und Labore an das Gesundheitsamt und der Übermittlung der Fälle an die zuständigen Landesbehörden
+      und das RKI können einige Tage vergehen (Übermittlungsverzug). Dem RKI werden täglich neue Fälle übermittelt, die am gleichen Tag
+      oder bereits an früheren Tagen an das Gesundheitsamt gemeldet worden sind.
+
+      Demografische Verteilung
+      Von den Fällen sind 48% männlich und 52% weiblich. Insgesamt sind von den Fällen 1.038 Kinder
+      unter 5 Jahren (1%), 2.566 Kinder im Alter von 5 bis 14 Jahren (2%), 88.317 Personen im Alter von 15
+      bis 59 Jahren (68%), 25.188 Personen im Alter von 60 bis 79 Jahren (19%) und 13.109 in der
+      Altersgruppe ab 80 Jahre (10%) (s. Abb. 5). Bei 232 Personen ist das Alter unbekannt. Der
+      Altersmedian liegt bei 50 Jahren.
+
+
+
+
+      Abbildung 5: Darstellung der übermittelten COVID-19-Fälle/100.000 Einwohner in Deutschland nach Altersgruppe und Geschlecht
+      (n=129.788 Fälle, 16.04.2020, 0:00 Uhr). Die Differenz zur Gesamtfallzahl entsteht durch fehlende Werte zum Alter und Geschlecht.
+
+
+
+
+      Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+5                                                                                      COVID-19-Lagebericht vom 16.04.2020   5
+
+
+
+    Klinische Aspekte
+    Für 101.538 übermittelte Fälle liegen klinische Informationen vor. Häufig genannte Symptome waren
+    Husten (51%), Fieber (42%) und Schnupfen (22%). Für 2.509 Fälle (2%) ist bekannt, dass sie eine
+    Pneumonie entwickelt haben. Eine Hospitalisierung wurde bei 16.318 (16%) der 101.269
+    übermittelten COVID-19-Fälle mit diesbezüglichen Angaben angegeben.
+    Geschätzte 77.000 Personen sind von ihrer COVID-19-Infektion genesen. Ein genaues Datum der
+    Genesung liegt für die meisten Fälle nicht vor. Daher wird ein Algorithmus zur Schätzung der Anzahl
+    der Genesenen verwendet.
+    Insgesamt sind 3.569 Personen in Deutschland im Zusammenhang mit einer COVID-19-Erkrankung
+    verstorben (Tab. 2). Es handelt sich um 2.074 (58%) Männer und 1.490 (42%) Frauen, für 5 Personen
+    ist das Geschlecht unbekannt und für 2 Personen das Alter. Der Altersmedian liegt bei 82 Jahren. Von
+    den Todesfällen waren 3.079 (86%) Personen 70 Jahre und älter. Im Unterschied dazu beträgt der
+    Anteil der über 70-Jährigen an der Gesamtzahl der übermittelten COVID-19-Fälle nur 18%. Es wird
+    weiterhin von COVID-19-bedingten Ausbrüchen in Alters- und Pflegeheimen sowie in
+    Krankenhäusern berichtet. In einigen dieser Ausbrüche ist die Zahl der Verstorbenen vergleichsweise
+    hoch.
+    Tabelle 2: Die dem RKI übermittelten COVID-19-Todesfälle nach Alter und Geschlecht
+    (Angaben verfügbar für 3.562 der 3.569 Todesfälle; 16.04.2020, 0:00 Uhr)
+
+    Geschlecht                                                    Altersgruppe in Jahren
+                                <60                  60 - 69              70 - 79          80 - 89               ≥90
+      männlich                  123                    242                      569         903                  237
+
+      weiblich                   39                     83                      261         742                  363
+
+    Fälle unter Personal in medizinischen Einrichtungen
+    Unter den nach IfSG übermittelten COVID-19-Fällen wurde bisher für 6.395 Fälle übermittelt, dass sie
+    in medizinischen Einrichtungen gemäß § 23 Abs. 3 IfSG tätig waren. Zu den Einrichtungen zählen z.B.
+    Krankenhäuser, ärztliche Praxen, Dialyseeinrichtungen, ambulante Pflegedienste und
+    Rettungsdienste. Der Anteil der Fälle unter Personal in medizinischen Einrichtungen an allen
+    übermittelten Fällen lag in der Kalenderwoche 15 bei mindestens 6% und ist in den letzten Wochen
+    angestiegen (KW 12: 3%, KW 13: 5%, KW 14: 5%). Da Angaben zur Tätigkeit bei mehr als 40% der
+    Fälle noch fehlen, liegt der Anteil der Fälle mit einer Tätigkeit in medizinischen Einrichtungen
+    möglicherweise auch höher. Von den Fällen unter Personal in medizinischen Einrichtungen waren
+    72% weiblich und 28% männlich. Der Altersmedian liegt bei 42 Jahren. Bei 262 der 6.224
+    übermittelten Personen mit Tätigkeit in einer medizinischen Einrichtung und einer entsprechenden
+    Angabe wurde eine Hospitalisierung berichtet (4%). Unter Personal in medizinischen Einrichtungen
+    traten 8 Todesfälle im Zusammenhang mit einer COVID-19-Erkrankung auf.
+
+    Schätzung der Fallzahlen unter Berücksichtigung des Verzugs (Nowcasting) und der
+    Reproduktionszahl (R)
+    Die ausgewiesenen Fallzahlen spiegeln den Verlauf der Anzahl von Erkrankungsfällen nicht
+    vollständig wider, da es unterschiedlich lange dauert, bis es nach dem Erkrankungsbeginn eines Falles
+    zu einer COVID-19-Diagnose, zur Meldung und zur Übermittlung des Falls an das Robert Koch-Institut
+    kommt. Es wird daher versucht den tatsächlichen Verlauf der Anzahl von bereits erfolgten COVID-19-
+    Erkrankungen durch ein sogenanntes Nowcasting zu modellieren. Abb. 6 zeigt das Ergebnis dieser
+    Analyse. Für eine detaillierte Beschreibung der Methodik siehe Epid. Bull. 17 | 2020 Online vorab:
+    15.04.2020 https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/17/Art_02.html
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+6   COVID-19-Lagebericht vom 16.04.2020
+
+
+
+
+      Abbildung 6: Darstellung der Fälle mit bekanntem Erkrankungsbeginn (dunkelblau), geschätztem Erkrankungsbeginn für Meldungen mit
+      fehlender Eingabe des Erkrankungsbeginns (grau) und der geschätzte Verlauf der bereits symptomatischen Fälle (hellblau).
+
+      Die Reproduktionszahl R ist die Anzahl der Personen, die im Durchschnitt von einem Fall angesteckt
+      werden. Diese lässt sich nicht aus den Meldedaten ablesen, sondern nur durch statistische Verfahren
+      zum Beispiel auf der Basis des Nowcastings schätzen. Aktuell wird die Reproduktionszahl auf R = 0,7
+      (95%-Konfidenzintervall: 0,5-0,8) geschätzt. Das bedeutet, dass im Mittel fast jeder mit SARS-CoV-2
+      Infizierte eine weitere Person ansteckt und somit die Zahl der Neuerkrankungen leicht zurückgeht.
+      Wie Abb. 6 zeigt, lag diese Zahl ab dem 29.03.2020 bei etwa 4.000 Neuerkrankungen pro Tag. Seit
+      dem 04.04.2020 wird ein Rückgang der Neuerkrankungen sichtbar (Abb. 6).
+      Das Nowcasting und die R-Schätzung beziehen alle übermittelten Fälle mit Erkrankungsbeginn bis
+      zum 12.04.2020 (3 Tage vor Datenstand) ein. Fälle mit neuerem Erkrankungsbeginn wurden nicht
+      berücksichtigt, da sie noch nicht in ausreichender Zahl übermittelt wurden und zu instabilen
+      Schätzungen führen würden.
+
+
+      Hinweise zur Datenerfassung und -bewertung
+      Im Lagebericht werden die bundesweit einheitlich erfassten und an das RKI übermittelten Daten zu
+      bestätigten COVID-19-Fällen dargestellt. COVID-19-Verdachtsfälle und -Erkrankungen sowie
+      Nachweise von SARS-CoV-2 werden gemäß Infektionsschutzgesetz an das zuständige
+      Gesundheitsamt gemeldet. Die Gesundheitsämter ermitteln ggf. zusätzliche Informationen,
+      bewerten den Fall und leiten die notwendigen Infektionsschutzmaßnahmen ein. Die Daten werden
+      spätestens am nächsten Arbeitstag vom Gesundheitsamt elektronisch an die zuständige
+      Landesbehörde und von dort an das RKI übermittelt. Am RKI werden sie mittels weitgehend
+      automatisierter Algorithmen validiert.
+      Es werden nur Fälle veröffentlicht, bei denen eine labordiagnostische Bestätigung unabhängig vom
+      klinischen Bild vorliegt. Die Daten werden am RKI einmal täglich jeweils um 0:00 Uhr aktualisiert.
+      Durch die Dateneingabe und Datenübermittlung entsteht von dem Zeitpunkt des Bekanntwerdens
+      des Falls bis zur Veröffentlichung durch das RKI ein Zeitverzug, sodass es Abweichungen hinsichtlich
+      der Fallzahlen zu anderen Quellen geben kann.
+
+
+
+      Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+7                                                                                                COVID-19-Lagebericht vom 16.04.2020     7
+
+
+
+    Ergebnisse aus weiteren Surveillance-Systemen des RKI zu akuten
+    respiratorischen Erkrankungen
+      In GrippeWeb, dem Web-Portal, das in Deutschland die Aktivität akuter Atemwegserkrankungen
+      beobachtet und dazu Informationen aus der Bevölkerung selbst verwendet, ist die Rate akuter
+      Atemwegserkrankungen (ARE-Rate) und auch die Rate Influenza-ähnlicher Erkrankungen (ILI-Rate) in
+      der 15. KW 2020 im Vergleich zur Vorwoche stabil geblieben. Weitere Informationen sind abrufbar
+      unter https://grippeweb.rki.de/.
+      Im ambulanten Bereich überwacht die Arbeitsgemeinschaft Influenza (AGI) mit ihrem Netzwerk aus
+      primärversorgenden Sentinelärztinnen und -ärzten akute Atemwegserkrankungen. In der 15. KW
+      2020 konnte erneut ein starker Rückgang der Arztbesuche wegen akuter Atemwegserkrankungen in
+      allen Altersgruppen beobachtet werden. Die AGI hat die virologische Surveillance um SARS-CoV-2
+      erweitert. Seit der 8. KW 2020 sind insgesamt 12 SARS-CoV-2-positive Proben in 1.111 untersuchten
+      Proben im Sentinel der AGI detektiert worden (1%). Die Grippewelle der Saison 2019/20 endete nach
+      Definition der Arbeitsgemeinschaft Influenza mit der 12. KW 2020, in der 15. KW 2020 wurde im
+      Sentinel keine Influenza-Aktivität mehr verzeichnet. Weitere Informationen sind abrufbar unter
+      https://influenza.rki.de/.
+      Im Rahmen der ICD-10-Code basierten Krankenhaus-Surveillance von schweren akuten
+      respiratorischen Infektionen (SARI) waren 31% der berichteten SARI-Fälle (ICD-10-Codes J09 bis J22:
+      Hauptdiagnosen Influenza, Pneumonie oder sonstige akute Infektionen der unteren Atemwege) in
+      der 14. KW 2020 mit COVID-19 hospitalisiert. Während es bei Kindern unter 15 Jahren keine SARI-
+      Fälle mit COVID-19-Diagnose gab, war der Anteil der COVID-19-Fälle in der Altersgruppe 35 bis 59
+      Jahre mit 44 % besonders hoch (Tab. 5). Zu beachten ist, dass in dieser Auswertung nur Patienten mit
+      einem ICD-10-Code für SARI in der DRG-Hauptdiagnose und einer maximalen Verweildauer von einer
+      Woche berücksichtigt worden sind.
+      Tabelle 5: Anteil der Fälle mit einer zusätzlichen COVID-19-Diagnose (U07.1!) bei SARI-Fällen (ICD-10-Codes J09 – J22) mit einer
+      Verweildauer bis zu einer Woche und mit einem Aufnahmedatum in der 12. KW 2020 bis zur 14. KW 2020. Es wurden Daten aus 71
+      Sentinelkliniken eingeschlossen.
+
+
+                                                  COVID-19-Diagnose (U07.1!) bei SARI-Fällen
+
+       Altersgruppe                              12. KW 2020                 13. KW 2020        14. KW 2020
+
+       0 bis 4 Jahre                                          0%                   0%                        0%
+       5 bis 14 Jahre                                         0%                   0%                        0%
+       15 bis 34 Jahre                                        5%                  33%                       23%
+       35 bis 59 Jahre                                       15%                  46%                       44%
+       60 bis 79 Jahre                                       15%                  26%                       34%
+       80 Jahre und älter                                     3%                  13%                       27%
+       Gesamt                                                 7%                  23%                      31%
+
+
+    DIVI-Intensivregister
+      Die Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin (DIVI e. V.) führt
+      gemeinsam mit dem Robert Koch-Institut (RKI) das DIVI IntensivRegister – eine Website, über welche
+      intensivmedizinisch behandelte COVID-19-Patienten/innen und Bettenkapazitäten auf
+      Intensivstationen von allen Krankenhäusern Deutschlands erfasst werden. Im DIVI IntensivRegister
+      wird tagesaktuell sichtbar, in welchen Kliniken aktuell wie viele Plätze auf Intensivstationen zur
+      Verfügung stehen. Damit wird eine datengeleitete Maßnahmen-Steuerung bundesweit und regional
+      im Rahmen der Pandemie möglich.
+      Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+8    COVID-19-Lagebericht vom 16.04.2020
+
+
+
+       Ab dem 16.04.2020 ist die Meldung für alle intensivbettenführenden Krankenhaus-Standorte
+       verpflichtend.
+       Mit Stand 16.04.2020 (8:15 Uhr) beteiligen sich 1.067 Klinikstandorte. Insgesamt wurden 26.628
+       Intensivbetten registriert, wovon 15.316 (58%) belegt sind; 11.312 Betten sind aktuell frei. Nähere
+       Informationen zu COVID-19-Fällen in intensivmedizinischer Behandlung sind in Tabelle 3 dargestellt.
+
+       Tabelle 3: Intensivmedizinisch behandelte COVID-19-Fälle erfasst im DIVI-Register (16.04.2020, 08:15 Uhr)*
+
+                                                          Anzahl              Anteil             Änderung Vortrag
+                                                           Fälle
+       In intensivmedizinischer                                                                           +94
+                                                           2.773
+       Behandlung
+           - davon beatmet                                 2.083                75%                       +87
+
+       Abgeschlossene Behandlungen                         4.861                                          +884
+
+           - davon verstorben                              1.501                31%                       +255
+       * Nach der Umstellung des IT-Systems kam es zu einer vorübergehenden Verzögerung bei den Meldungen, daher sind im
+       Moment Vergleiche zu Angaben vor dem 03.04.2020 nur bedingt möglich. Derzeit werden vermutlich weniger als die
+       Hälfte der tatsächlich verfügbaren Betten in der Erhebung berücksichtigt. Quelle:
+       https://www.divi.de/register/intensivregister
+
+    Risikobewertung durch das RKI
+       Es handelt sich weltweit und in Deutschland um eine sehr dynamische und ernst zu nehmende
+       Situation. Bei einem Teil der Fälle sind die Krankheitsverläufe schwer, auch tödliche
+       Krankheitsverläufe kommen vor. Die Zahl der Fälle in Deutschland steigt weiter an. Die Gefährdung
+       für die Gesundheit der Bevölkerung in Deutschland wird derzeit insgesamt als hoch eingeschätzt, für
+       Risikogruppen als sehr hoch. Die Wahrscheinlichkeit für schwere Krankheitsverläufe nimmt mit
+       zunehmendem Alter und bestehenden Vorerkrankungen zu. Diese Gefährdung variiert von Region zu
+       Region. Die Belastung des Gesundheitswesens hängt maßgeblich von der regionalen Verbreitung der
+       Infektion, den vorhandenen Kapazitäten und den eingeleiteten Gegenmaßnahmen (Isolierung,
+       Quarantäne, soziale Distanzierung) ab und kann örtlich sehr hoch sein. Diese Einschätzung kann sich
+       kurzfristig durch neue Erkenntnisse ändern.
+
+    Empfehlungen und Maßnahmen in Deutschland
+           Am 15.04.2020 wurde in der Konferenz der Bundeskanzlerin mit den Ministerpräsidenten der
+            Länder eine schrittweise Lockerung der Maßnahmen vereinbart.
+            https://www.bundesregierung.de/breg-de/themen/coronavirus/fahrplan-corona-pandemie-
+            1744202
+           Um die Ausbreitung von COVID-19 weiter zu verlangsamen gilt eine zweiwöchige Quarantäne für
+            Deutsche, EU-Bürger, Bürger eines Schengen-assoziierten Staates oder langjährig in Deutschland
+            wohnhafte Personen, die nach mindestens mehrtägigem Auslandsaufenthalt einreisen:
+            https://www.bundesregierung.de/breg-de/themen/coronavirus/neue-einreiseregeln-1739634
+           Regelungen und Informationen für Reisende und Pendler während der Corona-Epidemie:
+            https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-regelungen-1735032
+                o Siehe dazu auch:
+                    https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Transport/BMG_Merk
+                    blatt_Reisende_Tab.html
+           Mitarbeiterinnen und Mitarbeiter des RKI unterstützen lokal an mehreren Einsatzorten
+            Maßnahmen der Ausbruchseindämmung mit Fokus auf Ausbrüchen in Alten- und Pflegeheimen
+            sowie Krankenhäusern in mehreren Bundesländern.
+
+       Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+9                                                                                 COVID-19-Lagebericht vom 16.04.2020   9
+
+
+
+          Bund und Länder haben die Kontaktbeschränkungen bis zum 19.04.2020 verlängert:
+           https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-massnahmen-1734724
+          Das Auswärtige Amt hat eine Reisewarnung für alle nicht notwendigen, touristischen Reisen ins
+           Ausland ausgesprochen und weist auf Rückholaktionen für deutsche Reisende hin. Es werden
+           umfangreiche Informationen für Reisende zur Verfügung gestellt: https://www.auswaertiges-
+           amt.de/de/ReiseUndSicherheit/covid-19/2296762
+          Zu aktuellen Entwicklungen und Maßnahmen informiert das Bundesgesundheitsministerium auf
+           seinen Internetseiten: https://www.bundesgesundheitsministerium.de/coronavirus.html
+
+      Internationale Risikogebiete
+      Seit dem 10.04.2020 weist das Robert Koch-Institut keine internationalen Risikogebiete oder
+      besonders betroffenen Gebiete in Deutschland mehr aus.
+      COVID-19 ist inzwischen weltweit verbreitet. In einer erheblichen Anzahl von Staaten gibt es
+      Ausbrüche mit zum Teil großen Fallzahlen; von anderen Staaten sind die genauen Fallzahlen nicht
+      bekannt. Ein Übertragungsrisiko besteht daher sowohl in Deutschland als auch in einer
+      unübersehbaren Anzahl von Regionen weltweit. Aufgrund der weltweiten Reisewarnung des
+      Auswärtigen Amtes ist es aus epidemiologischer Sicht sinnvoll, die Ausweisung von Risikogebieten
+      auszusetzen. Siehe dazu auch:
+      https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete.html
+
+      Neue und aktualisierte Dokumente
+          Hinweise zum beispielhaften An- und Ablegen von PSA für Fachpersonal (Stand 16.04.2020)
+           https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/PSA_Fachpersonal/Dokument
+           e_Tab.html
+          Im Beitrag „Kontaktpersonennachverfolgung bei respiratorischen Erkrankungen durch das
+           Coronavirus SARS-COV-2“ wurde der Abschnitt Kontaktpersonen der Kategorie III geändert
+           (Stand 16.04.2020)
+           https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Kontaktperson/Management.
+           html
+          Veröffentlichung von Anlagen zum Beitrag „Prävention und Management von COVID-19 in Alten-
+           und Pflegeeinrichtungen und Einrichtungen für Menschen mit Beeinträchtigungen“ (15.04.2020)
+           https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Pflege/Dokumente.html
+          Publikationen mit RKI-Beteiligung (Stand 16.04.2020)
+           https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Publikationen.html
+
+
+    Epidemiologische Lage global
+      Die Weltgesundheitsorganisation (WHO) hat am 11.03.2020 COVID-19 zur Pandemie erklärt. Als
+      Pandemie wird ein Krankheitsausbruch bezeichnet, der nicht mehr örtlich beschränkt ist.
+      Zahlen und weitere Informationen zu COVID-19-Fällen in anderen Ländern finden Sie auf den
+      Internetseiten des ECDC: https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-
+      cases.
+      Das WHO Regionalbüro für Europa, die Europäische Kommission und das Europäische Observatorium
+      für Gesundheitssysteme und Gesundheitspolitik haben den COVID-19 Health System Response
+      Monitor (HSRM) veröffentlicht (https://www.covid19healthsystem.org/). Er dient dazu, aktuelle
+      Informationen aus den europäischen Ländern zu sammeln und deren Antworten auf die Krise zu
+
+
+      Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+10    COVID-19-Lagebericht vom 16.04.2020
+
+
+
+        dokumentieren. Der Fokus liegt dabei auf Gesundheitssystemen und Public Health-Initiativen
+        (Zugang auf Englisch).
+
+     Empfehlungen und Maßnahmen global
+        ECDC
+            Das ECDC hat am 08.04.2020 eine aktualisierte Risikoeinschätzung herausgegeben:
+             https://www.ecdc.europa.eu/en/current-risk-assessment-novel-coronavirus-situation
+            Das ECDC stellt zudem zahlreiche Dokumente und Informationen zur Verfügung unter:
+             https://www.ecdc.europa.eu/en/covid-19-pandemic
+
+        Europa
+            Der Europäische Rat informiert über die mit den Mitgliedstaaten vereinbarten Maßnahmen
+             unter: https://www.consilium.europa.eu/de/policies/covid-19-coronavirus-outbreak-and-the-eu-
+             s-response/
+            Die Regierungen von Österreich und Dänemark haben eine kontrollierte, schrittweise und
+             vorsichtige Öffnung des jeweiligen Landes verkündet.
+            In Italien begann am 14.04.2020 die sogenannte Phase 2 des Lockdowns. Viele Geschäfte,
+             Service- und Industrieunternehmen dürfen unter verschärften Hygieneregeln den Betrieb wieder
+             aufnehmen.
+            In Spanien hält der am 15.03.2020 verhängte Ausnahmezustand an. Restaurants und die meisten
+             Geschäfte bleiben geschlossen und die grundsätzliche Ausgangssperre gilt weiter. Jedoch dürfen
+             Beschäftigte von Betrieben, die keine als lebenswichtig eingestuften Aufgaben erfüllen, wieder
+             arbeiten gehen.
+            Frankreich hat die Ausgangssperre im ganzen Land bis zum 11.05.2020 verlängert.
+
+        WHO
+            Die WHO stellt umfangreiche Informationen und Dokumente zur Verfügung unter:
+             https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+            Situation Reports der WHO: https://www.who.int/emergencies/diseases/novel-coronavirus-
+             2019/situation-reports
+
+        Weltweit
+            Viele Länder der Welt haben Reiseeinschränkungen und weitere Maßnahmen zur Eindämmung
+             des COVID-19-Ausbruchs eingeführt. Nähere Informationen findet man unter folgendem Link:
+             https://pandemic.internationalsos.com/2019-ncov/ncov-travel-restrictions-flight-operations-
+             and-screening
+
+
+
+
+        Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+

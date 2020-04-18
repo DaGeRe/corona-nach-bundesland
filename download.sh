@@ -22,7 +22,7 @@ do
 	download https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-04-0$i-de.pdf?__blob=publicationFile 2020-04-$i.pdf
 done
 
-for i in {10..15}
+for i in {10..17}
 do 
 	download https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/2020-04-$i-de.pdf?__blob=publicationFile 2020-04-$i.pdf
 done
